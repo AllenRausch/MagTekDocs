@@ -1,10 +1,10 @@
-# 30 60 90 Phased Document Plan
+# 30 60 90 - Unified Document System Construction Plan
 
 ## Executive Summary
 
 This 90-day plan establishes the foundation for transforming MagTek's documentation infrastructure from a fragmented, difficult-to-maintain system into a modern, unified knowledge platform.
 
-* **The Problem:** Critical information is difficult to find, essential documentation is prohibitively hard to update, and a fragmented system hinders both internal productivity and customer support effectiveness.
+* **The Problem:** Critical information is difficult to find, essential documentation is prohibitively hard to update, and a fragmented system hinders both internal productivity and customer support effectiveness.&#x20;
 * **The Solution:** A phased approach that prioritizes stakeholder alignment, data-driven tool selection, and careful pilot planning before full-scale implementation.
 * **Timeline:**
 * **Days 1-30:** Complete discovery, build consensus on problems and strategic direction
@@ -21,7 +21,7 @@ This plan is designed as a collaborative process with built-in flexibility to ac
 
 ## Introduction
 
-The Technical Writer role at MagTek has been strategically re-envisioned from a reactive document creator into a proactive architect of the company's information ecosystem. This transition is a direct response to critical business pain points identified across the organization: the inability to find critical information, the prohibitive difficulty of updating essential documentation, and a fragmented system that hinders both internal productivity and customer support experience.
+The Technical Writer role at MagTek has been strategically re-envisioned from a reactive document creator into a proactive architect of the company's information ecosystem. This transition is a direct response to critical business pain points identified across the organization: Teams are dealing with fragmented documentation across platforms (Agile, Postman, PDFs, emails) which creates confusion and slows down updates. Support relies on 'tribal knowledge' and has no access to internal engineering documentation. Marketing is using an outdated proprietary document management tool that cannot be updated, integrated, or maintained. Finally, the programmer’s manual is consistently cited as difficult to navigate, search, and maintain.
 
 This plan outlines a comprehensive, three-month strategy to dismantle these legacy barriers and lay the foundation for a modern, unified knowledge platform. The goal is to replace outdated, siloed resources (such as the monolithic Word document and scattered Agile entries) with a structured, scalable system built on a docs-as-code foundation. This new ecosystem will serve as a single source of truth, accessible to internal teams (Engineering, Support, Product, and Marketing) and external customers alike, with appropriate security controls.
 
@@ -122,9 +122,12 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 * **Discovery Report (DC-14):** A comprehensive synthesis of findings that:
   * Documents current pain points with quantified impact where possible
   * Maps the existing information stakeholder ecosystem with stakeholder workflows
+    * **For Support:** End reliance on tribal knowledge; access internal troubleshooting guides.
+    * **For Engineering:** Eliminate the monolithic Word doc; integrate documentation into existing GitHub workflow."
+    * **For Marketing:** Replace a legacy, unsupported CMS with a modern, scalable platform.
   * Presents the strategic case for modernization
   * Outlines the vision for a unified information system
-  * Identified quick wins and long-term opportunities
+  * Identifies quick wins and long-term opportunities
 * **Documentation Team Charter/Mission Statement Draft (DC-15)**
 
 ### Risk Identification & Mitigation Planning (DC-16)
@@ -152,7 +155,9 @@ Socialize findings among stakeholders, present solution options, and gather cros
 
 ### Contribution Workflow & Governance Model (DC-20)
 
-* Design & Document a proposed workflow for creating, reviewing, and publishing content, including roles and responsibilities for writers, SMEs, and approvers. Processes may be different for different content types.
+* Design & document a proposed workflow for creating, reviewing, and publishing content, including roles and responsibilities for writers, SMEs, and approvers. Processes may be different for different content types.
+* Includes proposal for propose a **Documentation Council** with reps from Engineering, PM, Support, and Marketing to prioritize content and resolve conflicts.
+  * Develop a Content Prioritization Framework with Documentation Council and leadership to ensure we're migrating the most valuable content first, not just the easiest.
 
 ### Major Deliverable: **Final Tool & Tech Stack Approval Package (DC-21)**
 
@@ -177,6 +182,7 @@ Finalize all strategic plans and establish the foundation for the pilot launch i
 ### Support Site Integration Strategy (DC-28)
 
 * In collaboration with Marketing, draft a technical and editorial plan for connecting the new knowledge base to the public-facing support site.
+* Define permission models and content reuse strategy to ensure Support has access to internal troubleshooting guides while keeping proprietary information secure.
 
 ### Analytics & Success Metrics Framework (DC-29)(DC-30)
 
