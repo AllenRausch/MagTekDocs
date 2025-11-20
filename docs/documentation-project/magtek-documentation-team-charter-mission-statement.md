@@ -13,11 +13,13 @@ This charter establishes the framework for the Documentation Modernization Proje
 * **All customer-facing technical documentation:** API references, user guides, SDK documentation, hardware manuals, and troubleshooting.
 * **Internal technical knowledge:** System architecture, onboarding guides, and process documentation for Engineering, Support, and QA.
 * **Content Lifecycle Management:** Authoring, review, versioning, publishing, and archiving workflows.
+* **Unified Information System:** Information architecture and taxonomy of internal documentation. Information architecture and taxonomy of external documentation is a joint project between Documentation and Marketing. &#x20;
 * **Platform & Tooling:** The selection, implementation, and governance of the core knowledge base platform and its integrations (e.g., GitHub).
 
 ### Out of Scope
 
-* Marketing collateral, sales playbooks, and general HR policies (though integration points may be established).
+* Marketing collateral, marketing elements of the website, sales playbooks, and general HR policies (though integration points may be established).
+* Ownership of the look and feel and basic layout of the Marketing and Support site.&#x20;
 * Direct ownership of code; ownership is of the _documentation of the code_.
 
 ## Guiding Principles
