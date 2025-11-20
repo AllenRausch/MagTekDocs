@@ -41,9 +41,9 @@ This document is structured around three progressive phases: **Discover, Evaluat
 
 This transition will be guided by the following principles:
 
-* \*\*Stakeholder-centered design:\*\*Solutions will be shaped by user needs, not imposed top-down
-* \*\*Iterative implementation:\*\*Pilot-test-refine approach to minimize disruption
-* \*\*Transparency:\*\*Regular communication and documentation of decision-makes processes
+* **Stakeholder-centered design:** Solutions will be shaped by user needs, not imposed top-down
+* **Iterative implementation:** Pilot-test-refine approach to minimize disruption
+* **Transparency:** Regular communication and documentation of decision-makes processes
 * **Measurable outcomes:** All recommendations backed by data and clear success criteria
 * **Sustainability:** Systems designed for long-term maintainability and scalability, not just quick fixes
 
@@ -51,7 +51,7 @@ _Note: A dedicated Jira project and Kanban board for documentation tasks have be
 
 _Note: This plan is designed to be a collaborative and iterative process. Timelines for feedback and decisions are estimates and may be adjusted to accommodate stakeholder availability and ensure full organizational alignment._
 
-## Phase 1: Days 1-30 (By Dec. 18) – Discover & Align
+## Phase 1: Days 1-30 – Discover & Align
 
 ### Phase 1 Theme
 
@@ -133,7 +133,7 @@ _Note: This plan is designed to be a collaborative and iterative process. Timeli
 * Document dependencies on external teams or vendors (enterprise-level tool accounts, employee tool costs, consultants).
 * Create communication strategy for relaying status communication to and managing stakeholder expectations for the project.
 
-## Phase 2: Days 31-60 (by Jan. 16) – Evaluate & Socialize
+## Phase 2: Days 31-60 – Evaluate & Socialize
 
 ### Phase 2 Theme
 
@@ -163,7 +163,7 @@ _Note: This plan is designed to be a collaborative and iterative process. Timeli
   * Risk assessment and mitigation strategies
   * Formal sign-off documentation from leadership and key stakeholders
 
-## Phase 3: Days 61-90 (by Feb. 16) – Planning & Pilot Prep
+## Phase 3: Days 61-90 – Planning & Pilot Prep
 
 ### Phase 3 Theme
 
