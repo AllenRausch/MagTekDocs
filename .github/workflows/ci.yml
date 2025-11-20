@@ -24,6 +24,6 @@ name: Deploy MkDocs site to GitHub Pages
 
 # This allows both push and manual triggering
 on:
-  workflow_dispatch # Allows manual triggering
+  workflow_dispatch 
   push:
     branches: [ main, pilot-mkdocs ] # Still rebuilds automatically on push
