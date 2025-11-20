@@ -22,10 +22,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');\
 &#x20;});\
 &#x20;
 
-| DynaProx Installation and Operation Manual                            |
-| --------------------------------------------------------------------- |
-| ![](<DynaProx Images/e08900f40bb00367ab695d3c7a29a4a0.png>)           |
-| June 2025 Document Number: D998200490-402 REGISTERED TO ISO 9001:2015 |
+| DynaProx Installation and Operation Manual                                  |
+| --------------------------------------------------------------------------- |
+| ![](../../../../../../.gitbook/assets/e08900f40bb00367ab695d3c7a29a4a0.png) |
+| June 2025 Document Number: D998200490-402 REGISTERED TO ISO 9001:2015       |
 
 Copyright © 2006 - 2024 MagTek, Inc.
 
@@ -189,7 +189,7 @@ Designed to simplify development efforts, DynaProx and DynaProx BCR are availabl
 
 **Figure 1** shows the major components of DynaProx with barcode reader. Models without a barcode reader are identical to the diagram, but do not have a camera and do not have a QR code printed on the front face.
 
-![Diagram, engineering drawing Description automatically generated](<DynaProx Images/bb960085b28a8d626efc84d3e70bff92.png>)
+![Diagram, engineering drawing Description automatically generated](../../../../../../.gitbook/assets/bb960085b28a8d626efc84d3e70bff92.png)
 
 Figure 1 - DynaProx Major Components
 
@@ -241,7 +241,7 @@ The guidelines in the following sections are intended to help project planners a
 
 ## Handling and Storage
 
-| ![](<DynaProx Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                                |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (3).png>)                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Proper handling of the device throughout delivery, assembly, shipping, installation, usage, and maintenance is very important. Not following the guidelines in this document could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -289,7 +289,7 @@ The following sections provide steps for connecting DynaProx to a host via the v
 
 #### How to Connect DynaProx to a Host via USB
 
-![Diagram, engineering drawing Description automatically generated](<DynaProx Images/6bbbfa7091a552dfb28bfb82db885407.png>)
+![Diagram, engineering drawing Description automatically generated](../../../../../../.gitbook/assets/6bbbfa7091a552dfb28bfb82db885407.png)
 
 Figure 3 - Connecting to a USB Host
 
@@ -302,19 +302,19 @@ Note: A poor quality cable, or cable longer than 12ft in length, can result in u
 3. As soon as the device starts receiving power through USB, it automatically powers on.
 4. If the specific device serial number you are connecting has not been connected to the host before, Windows system tray on the host reports it is **Setting up a device**, see **Figure 4 – Device Setup**. When installation is complete (approximately 30 seconds later depending on the host), Windows reports **Device is ready**, (see **Figure 5 – Setup Complete)** and the device shows in Windows Device Manager under **Human Interface Devices** (**see Figure 6 – Windows Device Manager**) as two devices: **HID-compliant vendor-defined device** (see **Figure 7 – HID Compliant Vendor-defined Device Properties**) with VID **0801** and PID **2020**, and **USB Input Device**.
 
-![](<DynaProx Images/4b7665fe126e19b0e4a434d73ef064f1.png>)
+![](../../../../../../.gitbook/assets/4b7665fe126e19b0e4a434d73ef064f1.png)
 
 Figure 4 – Device Setup
 
-![](<DynaProx Images/60f775a9be5e000b7816fea5368a6139.png>)
+![](../../../../../../.gitbook/assets/60f775a9be5e000b7816fea5368a6139.png)
 
 Figure 5 – Setup Complete
 
-![](<DynaProx Images/2594ddbb972171fe207210fcccaee568.png>)
+![](<../../../../../../.gitbook/assets/2594ddbb972171fe207210fcccaee568 (3).png>)
 
 Figure 6 – Windows Device Manager
 
-![](<DynaProx Images/3f65691eadfe285152b3250ddfcd407e.png>)
+![](<../../../../../../.gitbook/assets/3f65691eadfe285152b3250ddfcd407e (2).png>)
 
 Figure 7 – HID Compliant Vendor-defined Device Properties
 
@@ -340,7 +340,7 @@ Table 4 - RS-232 Signals
 
 The RS-232 cable will be customer dependent. A sample cable can be provided that has the mating connector for DynaProx and color-coded wires. See **Figure 8 - Cables and Connectors.**
 
-![](<DynaProx Images/bea85b30318775f4f4218e7e6147945a.png>)
+![](../../../../../../.gitbook/assets/bea85b30318775f4f4218e7e6147945a.png)
 
 Figure 8 - Cables and Connectors
 
@@ -359,7 +359,7 @@ DynaProx products are designed to provide flexible mounting options:
 
 #### How to Mount DynaProx
 
-| ![](<DynaProx Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                                                                                             |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (3).png>)                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | This document describes how to use DynaProx securely. Using the device in any way other than the approved methods described in this document invalidates the PCI PTS approval of the device. Not following the guidelines in this section could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -374,7 +374,7 @@ When designing the mechanical portions of a solution that incorporates DynaProx 
 
 Overall dimensions of the device are shown in **Figure 9**. On request, MagTek can provide a 3D model of the device’s envelope to assist with the mechanical portion of solution design. MagTek strongly recommends building and testing prototypes with actual devices before finalizing the solution design.
 
-![Diagram Description automatically generated](<DynaProx Images/cdb8440344fec202f20ab08893de7040.png>)
+![Diagram Description automatically generated](../../../../../../.gitbook/assets/cdb8440344fec202f20ab08893de7040.png)
 
 Figure 9 - DynaProx Overall Dimensions
 
@@ -384,19 +384,19 @@ When mounting DynaProx, make sure gasket is seated properly to ensure IP65 ratin
 
 The suggested panel cutouts for the USB and RS-232 connectors are shown in **Figure 12** with a DynaProx shown for reference. The dimensions for the suggested panel cutouts are shown in **Figure 13**.
 
-![Diagram Description automatically generated](<DynaProx Images/6b335a5fe1ab8551dfed056b166ee7c3.png>)
+![Diagram Description automatically generated](../../../../../../.gitbook/assets/6b335a5fe1ab8551dfed056b166ee7c3.png)
 
 Figure 10 - DynaProx Mounting Hole Locations
 
-![](<DynaProx Images/7cca99d4df6fc7fc7536858b7577b441.png>)
+![](../../../../../../.gitbook/assets/7cca99d4df6fc7fc7536858b7577b441.png)
 
 Figure 11 – DynaProx Gasket
 
-![A picture containing diagram Description automatically generated](<DynaProx Images/39115b87aba28d9aa73f61fa19d917aa.png>)
+![A picture containing diagram Description automatically generated](../../../../../../.gitbook/assets/39115b87aba28d9aa73f61fa19d917aa.png)
 
 Figure 12 – DynaProx Suggested USB and RS-232 Panel Cutouts
 
-![Diagram Description automatically generated](<DynaProx Images/4fcac4c208b6105acc1e331275974d1b.png>)
+![Diagram Description automatically generated](../../../../../../.gitbook/assets/4fcac4c208b6105acc1e331275974d1b.png)
 
 Figure 13 – DynaProx Suggested USB and RS-232 Panel Cutout Dimensions
 
@@ -406,7 +406,7 @@ When designing the enclosure or mounting bracket, make sure there is adequate cl
 
 Major Components, see **Figure 14 - DynaProx Major Components.**
 
-![Diagram Description automatically generated](<DynaProx Images/aff703016678861642b883e9adc8abc4.png>)
+![Diagram Description automatically generated](../../../../../../.gitbook/assets/aff703016678861642b883e9adc8abc4.png)
 
 Figure 14 - DynaProx Major Components
 
@@ -425,19 +425,19 @@ Figure 14 - DynaProx Major Components
 
 1\. Place the DynaProx face down on a clean, soft surface to avoid scratching the front face of the device. Using minimal toque, use (4) M4 screws to attach the stand to the body.
 
-![A picture containing projector Description automatically generated](<DynaProx Images/1fb27234974bc521eeb9ca3eed70779d.png>)
+![A picture containing projector Description automatically generated](../../../../../../.gitbook/assets/1fb27234974bc521eeb9ca3eed70779d.png)
 
 Figure 15 - Suggested Installation for DynaProx Stand
 
 2\. Insert the cable and connect securely to the DynaProx device. Clip the cable securely into the cable management hooks. Channel the cable outside the back end of the stand body.
 
-![Diagram, engineering drawing Description automatically generated](<DynaProx Images/9cbff92fe97caa8480dc6276342a5c10.png>)
+![Diagram, engineering drawing Description automatically generated](../../../../../../.gitbook/assets/9cbff92fe97caa8480dc6276342a5c10.png)
 
 Figure 16 - Cable Management
 
 3\. Align the assembly base plate and using the (2) flat-head screws, screw the base plate to the stand body. See **Figure 17 – Baseplate Installation.**
 
-![](<DynaProx Images/7ce1bc1643604f72afb0797be07c1329.png>)
+![](../../../../../../.gitbook/assets/7ce1bc1643604f72afb0797be07c1329.png)
 
 Figure 17 – Baseplate Installation
 
@@ -451,7 +451,7 @@ Follow Steps 1 through 2, then –
    1. Attach the baseplate to the stand body following step 3. Then align the surface to the tracing.
       1. Using (2) M4 x 0.7mm thread pitch (not included) screws, screw up through the pre-drilled holes to the baseplate. Screws should be long enough to go through the surface and no more than 0.25” into the stand body.
 
-![A picture containing diagram Description automatically generated](<DynaProx Images/fdf23f078c4aea5946a35cc1ed6d51d3.png>)
+![A picture containing diagram Description automatically generated](../../../../../../.gitbook/assets/fdf23f078c4aea5946a35cc1ed6d51d3.png)
 
 Figure 17a - Recommended Disassembly Procedure
 
@@ -492,7 +492,7 @@ As mentioned in section **1.4 About DynaProx Components**, DynaProx models equip
 * DynaProx BCR devices have a user interface composed of three elements: a visual indicator consisting of four mono LEDs, a barcode reader, and a beeper that produces audible alerts.
 * DynaProx devices do not feature any input components such as buttons or touch screens.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 18 – DynaProx and DynaProx BCR**
 
@@ -502,7 +502,7 @@ As mentioned in section **1.4 About DynaProx Components**, DynaProx models equip
 
 The arrangement of the four mono LEDs on DynaProx and DynaProx BCR devices is illustrated in **Figure 19**. The LEDs are labeled LEDs 1 to 4 and are ordered from left to right on the device.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 19 - LED Ordering**
 
@@ -516,7 +516,7 @@ The arrangement of the four mono LEDs on DynaProx and DynaProx BCR devices is il
 
     DynaProx devices equipped with a bar code reader have a status light that indicates whether the barcode feature is powered on or off.
 
-    ![](<DynaProx Images/c52f721c4c181bad825cdde0a6ad71f4.png>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+    ![](../../../../../../.gitbook/assets/c52f721c4c181bad825cdde0a6ad71f4.png) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 21 - BCR Light**
 
@@ -532,7 +532,7 @@ This section contains information regarding the operational modes of DynaProx's 
 
 When the device USB cable is connected to the host USB port, a brief beep will sound and all four LEDs will turn on for half a second, as shown in **Figure 22**. Following this, LED 1 and LED 2 will remain illuminated, while LED 3 and LED 4 will remain unlit. After a duration of 10 seconds, all LEDs will turn off, and the device will enter an idle state. This occurs because the host sets the USB port into suspension mode, prompting the device to enter an idle state.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 22 – LED Power on Sequence – USB Power On**
 
@@ -540,7 +540,7 @@ When the device USB cable is connected to the host USB port, a brief beep will s
 
 When DynaProx is in an idle state, it can be detected by a host through the USB HID port see **Figure 23**. After the host has connected to DynaProx, LED 1 and LED 2 will stay on. The device is in Ready State.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 23 - LEDs Status (Idle State) Before Host Detection and LED Status (Ready State) After Connecting to Host**
 
@@ -548,11 +548,11 @@ When DynaProx is in an idle state, it can be detected by a host through the USB 
 
 When the device is in ready state, two LEDs will be illuminated see **Figure 24**. When a card is detected only LED 1 will be on. If the device has a BCR and it is enabled, the BCR light will also be turned on see **Figure 25**.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 24 - Ready State**
 
-![](<DynaProx Images/dd35431faaba8fe896e3101d7a7682e7.png>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![](../../../../../../.gitbook/assets/dd35431faaba8fe896e3101d7a7682e7.png) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 25 – Card detected.**
 
@@ -560,11 +560,11 @@ When the device is in ready state, two LEDs will be illuminated see **Figure 24*
 
 When a card is read, all four LEDs will turn on in sequence (1, 2, 3, and 4) followed by a long beep, indicating a successful transaction, see **Figure 26**. After a successful transaction, the device will return to the ready state when the transaction is complete, see **Figure 27**.
 
-![A picture containing graphical user interface Description automatically generated](<DynaProx Images/645d63a6db75c56cadf2adda8f6333c5.png>)
+![A picture containing graphical user interface Description automatically generated](../../../../../../.gitbook/assets/645d63a6db75c56cadf2adda8f6333c5.png)
 
 **Figure 26 – LED Sequence – Payment Transaction Successful**
 
-![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 27 – Return to Ready State After Successful Transaction**
 
@@ -572,21 +572,21 @@ When a card is read, all four LEDs will turn on in sequence (1, 2, 3, and 4) fol
 
 When the device is in ready state, two LEDs will be illuminated see **Figure 28**. When a card is detected, only LED 1 will be turned on. If the device has a BCR and it is enabled, the BCR light will also be turned on see **Figure 29**.
 
-![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 28 - Ready State**
 
-![](<DynaProx Images/dd35431faaba8fe896e3101d7a7682e7.png>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![](../../../../../../.gitbook/assets/dd35431faaba8fe896e3101d7a7682e7.png) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 29 – Card Detected**
 
 In the event of a failed or canceled transaction, LED 1 will stay illuminated, and the device will emit two short beeps. If the device is equipped with a BCR, its light will also be on, as shown in **Figure 30**. The device will then return to the ready state, as demonstrated in **Figure 31**.
 
-![](<DynaProx Images/dd35431faaba8fe896e3101d7a7682e7.png>) ![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![](../../../../../../.gitbook/assets/dd35431faaba8fe896e3101d7a7682e7.png) ![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 30 - Payment Transaction Failed**
 
-![A close-up of a machine Description automatically generated with low confidence](<DynaProx Images/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg>)
+![A close-up of a machine Description automatically generated with low confidence](../../../../../../.gitbook/assets/e0be4a9d2e8e51b93c9c9e40d447fd91.jpg)
 
 **Figure 31 - Ready State**
 
@@ -594,7 +594,7 @@ In the event of a failed or canceled transaction, LED 1 will stay illuminated, a
 
 Upon being connected to USB power (after a delay of three seconds), the device will emit a short beep, and all four LEDs will turn on for half a second, as shown in **Figure 32**. The device will then return to the Ready State.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 32 - Device Connected to USB Power**
 
@@ -602,7 +602,7 @@ Upon being connected to USB power (after a delay of three seconds), the device w
 
 Upon being connected to RS-232 power (after a delay of three seconds), the device will emit a short beep, and all four LEDs will turn on for half a second, see **Figure 33**. The device will then return to ready state.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg) ![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 33 - Successful Connection to RS-232 Power Supply**
 
@@ -610,13 +610,13 @@ Upon being connected to RS-232 power (after a delay of three seconds), the devic
 
 While in an idle state see **Figure 34**, as described in section **6.3.2.1 Power On** , if an RS-232 power supply is connected to the device, it will remain in the idle state.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 34 - Device in Idle State Before RS-232 Power Supply Connection**
 
 When the device is in a ready state, as explained in section **6.3.2.1 Power On** , connecting an RS-232 power supply to it will not change its state and it will remain in the ready state see **Figure 35**.
 
-![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](<DynaProx Images/52a3c07f563158b8c598ff645de96d9e.jpg>)
+![A picture containing appliance, kitchen appliance, sketch, drawing Description automatically generated](../../../../../../.gitbook/assets/52a3c07f563158b8c598ff645de96d9e.jpg)
 
 **Figure 35 - Ready State**
 
@@ -647,11 +647,11 @@ Table 6 - DynaProx LED Allocation
 
 Table 7 - DynaProx LED Patterns
 
-| Color                                                                                                                                                                                                                                                   | Means                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Solid ![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)      | **Solid** LEDs generally require an operator or cardholder to take action to change the state the LED is reporting. Example: Host is connected. Cardholder or host would have to disconnect. Example: Host is disconnected. Host would have to initiate connection.                             |
-| Blinking ![](<DynaProx Images/bad702d1f486c3f13b37a8902862f1c3.png>)![](<DynaProx Images/bad702d1f486c3f13b37a8902862f1c3.png>)![](<DynaProx Images/bad702d1f486c3f13b37a8902862f1c3.png>)![](<DynaProx Images/bad702d1f486c3f13b37a8902862f1c3.png>)   | **Blinking** LEDs generally indicate the device is in the process of doing / attempting something. Blink duty cycle and blink period are generally selected to show urgency or ongoing progress through a series of steps. Example: Device is attempting to connect to the 802.11 access point. |
-| Short time ![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>)![](<DynaProx Images/96667fed4612d491e627cf5e14b0490f.png>) | LEDs sometimes light for a **short time** to indicate some process has ended (success or failure) and the device is going to transition to another state soon. Example: Successful card read.                                                                                                   |
+| Color                                                                                                                                                                                                                                                                                                                                           | Means                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Solid ![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)      | **Solid** LEDs generally require an operator or cardholder to take action to change the state the LED is reporting. Example: Host is connected. Cardholder or host would have to disconnect. Example: Host is disconnected. Host would have to initiate connection.                             |
+| Blinking ![](<../../../../../../.gitbook/assets/bad702d1f486c3f13b37a8902862f1c3 (2).png>)![](<../../../../../../.gitbook/assets/bad702d1f486c3f13b37a8902862f1c3 (2).png>)![](<../../../../../../.gitbook/assets/bad702d1f486c3f13b37a8902862f1c3 (2).png>)![](<../../../../../../.gitbook/assets/bad702d1f486c3f13b37a8902862f1c3 (2).png>)   | **Blinking** LEDs generally indicate the device is in the process of doing / attempting something. Blink duty cycle and blink period are generally selected to show urgency or ongoing progress through a series of steps. Example: Device is attempting to connect to the 802.11 access point. |
+| Short time ![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (2).png>) | LEDs sometimes light for a **short time** to indicate some process has ended (success or failure) and the device is going to transition to another state soon. Example: Successful card read.                                                                                                   |
 
 ### About Sounds
 
@@ -735,11 +735,11 @@ To tap a contactless card or smartphone, follow these steps:
    3. The device beeps twice.
    4. The device notifies the host that the transaction failed. If this occurs, the host software may choose to retry the transaction or revert to prompting the operator to perform another operation that is specific to the solution design.
 
-![](<DynaProx Images/948f3f9f06c27645d2b996197f590c6e.jpeg>) ![](<DynaProx Images/47932b7d3d65b52cf4911e6fba06e81e.png>)
+![](../../../../../../.gitbook/assets/948f3f9f06c27645d2b996197f590c6e.jpeg) ![](../../../../../../.gitbook/assets/47932b7d3d65b52cf4911e6fba06e81e.png)
 
 Figure 36 - Tapping a Contactless Card / Smartphone
 
-![A picture containing graphical user interface Description automatically generated](<DynaProx Images/645d63a6db75c56cadf2adda8f6333c5.png>)
+![A picture containing graphical user interface Description automatically generated](../../../../../../.gitbook/assets/645d63a6db75c56cadf2adda8f6333c5.png)
 
 Figure 37 – Contactless Read LED Sequence
 
@@ -760,7 +760,7 @@ To scan a barcode, follow these steps:
    1. The device beeps once.
    2. The device turns off the barcode reader indicator LED.
 
-![](<DynaProx Images/52cedc13a85d85a49c6144f97c09de1f.png>)
+![](../../../../../../.gitbook/assets/52cedc13a85d85a49c6144f97c09de1f.png)
 
 Figure 38 - Scanning a Barcode
 
@@ -809,7 +809,7 @@ To tap an NFC Contactless IC Product and Send Pass-through commands, follow thes
 
 ### Mechanical Maintenance
 
-| ![](<DynaProx Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                               |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (3).png>)                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DO NOT use liquid cleaning products or insert any other objects into the device. DO NOT apply any liquid directly onto the device, to avoid seepage into the electronics. |
 
@@ -1024,7 +1024,7 @@ This product is recognized per **UL 609501, 2nd Edition, 20111219** (Information
 
 **RoHS STATEMENT**
 
-When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](<DynaProx Images/4d77d9668e7bdc54b2ee2546cc21077c.png>)).
+When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](<../../../../../../.gitbook/assets/4d77d9668e7bdc54b2ee2546cc21077c (3).png>)).
 
 **PCI Statement**
 
@@ -1038,7 +1038,7 @@ When granted, PCI SSC approval is provided by PCI SSC to ensure certain security
 
 **Safety Requirements**
 
-| ![A picture containing text, font, graphics, logo Description automatically generated](<DynaProx Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![A picture containing text, font, graphics, logo Description automatically generated](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (3).png>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Never do any of the following:** DO NOT use a ground adapter plug to connect equipment to a power socket-outlet that lacks a ground connection terminal. DO NOT attempt any maintenance function that is not specifically described in this manual or in other ExpressCard 3000 instructional documents published by MagTek. DO NOT remove any of the covers or guards that are fastened with screws. There are no user-serviceable areas within these covers. DO NOT override or “cheat” electrical or mechanical interlock devices. DO NOT use EC3000 supplies or cleaning materials for other than their intended purposes. DO NOT operate the equipment if you or anyone else have noticed unusual noises or odors. **Consider the following before operating the ExpressCard 3000:** Connect the EC3000 to a properly grounded AC power socket-outlet. If in doubt, have the socket-outlet checked by a qualified electrician. Improper connection of the device’s grounding conductor creates a risk of electric shock. Place the EC3000 on a solid surface that can safely support the device’s weight plus the weight of a person leaning against it (such as a service technician). Be careful when moving or relocating the device. Use proper lifting techniques. Use materials and supplies specifically designed for MagTek devices. Using unsuitable materials may result in poor performance, and in some cases may be hazardous. |
 

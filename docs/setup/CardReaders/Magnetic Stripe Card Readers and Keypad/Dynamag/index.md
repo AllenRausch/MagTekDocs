@@ -1,14 +1,12 @@
 ---
 title: Dynamag
-layout: home
 parent: Magnetic Stripe Card Readers and Keypad
 nav_order: 2
 ---
 
 # Dynamag
 
-![Dynamag](Images/img01.jpg)
-
+![Dynamag](<../../../../../.gitbook/assets/img01 (5).jpg>)
 
 USB magnetic stripe swipe card reader, ready for secure payments and digital transactions
 

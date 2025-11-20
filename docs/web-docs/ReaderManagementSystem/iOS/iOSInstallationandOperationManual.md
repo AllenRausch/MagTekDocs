@@ -22,10 +22,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');\
 &#x20;});\
 &#x20;
 
-| \[Reader Management System] \[iOS] \[Installation and Operation Manual]   |
-| ------------------------------------------------------------------------- |
-| ![](Images/1b6bb6474e14ceebd130c45ebf78f20e.png)                          |
-| February 2025 Document Number: D998200681-111 REGISTERED TO ISO 9001:2015 |
+| \[Reader Management System] \[iOS] \[Installation and Operation Manual]     |
+| --------------------------------------------------------------------------- |
+| ![](<../../../../.gitbook/assets/1b6bb6474e14ceebd130c45ebf78f20e (2).png>) |
+| February 2025 Document Number: D998200681-111 REGISTERED TO ISO 9001:2015   |
 
 Copyright © 2006 - 2025 MagTek, Inc.
 
@@ -178,7 +178,7 @@ Its main differentiator is to allow a developer or user to auto-launch or single
 Begin by downloading the [MagTek Reader Management System](https://www.magtek.com/support/reader-management-system?tab=software).
 
 ![A picture containing symbol, circle, carmine, white Description automatically
-generated](Images/48dbbb1293a87bf2842b2888cc6fb644.png)
+generated](<../../../../.gitbook/assets/48dbbb1293a87bf2842b2888cc6fb644 (2).png>)
 
 Open the **MagTek Reader Management System** iOS app.
 
@@ -192,7 +192,7 @@ The main User Interface consists of five tabs located at the bottom of the page.
 * Commands
 * About
 
-![](Images/0ff511aa8173bb68fb2dbbffbff56be1.jpeg)
+![](../../../../.gitbook/assets/0ff511aa8173bb68fb2dbbffbff56be1.jpeg)
 
 The Active Tab icon will be highlighted red as illustrated above.
 
@@ -206,17 +206,17 @@ The **Connect Tab** will connect a device to the RMS app. The upper portion of t
 4. Interface Type: There are three interface types, **Lightning/USB-C**, **Bluetooth LE**, and **WebSocket** for WLAN enabled devices.
 
 ![A screenshot of a computer Description automatically
-generated](Images/2fa97d2efdce54d08ba2e26ec59854e0.jpg)
+generated](../../../../.gitbook/assets/2fa97d2efdce54d08ba2e26ec59854e0.jpg)
 
 The lower portion of the **Connect Tab** contains:
 
-5. Select Reader Refresh ![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg): When connecting Bluetooth enabled devices, this button will refresh the list of available devices to connect to.
+5. Select Reader Refresh ![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>): When connecting Bluetooth enabled devices, this button will refresh the list of available devices to connect to.
 6. Device Name: Tap on the **Device Name** to connect.
 7. No Reader Connected: This button becomes **Disconnect** after tapping on the device name to connect.
 8. Main UI **Tab Bar**: The main tabs for the RMS app are located at the bottom of the screen. The active tab is highlighted red.
 
 ![A screenshot of a computer Description automatically
-generated](Images/4bd98747b79ded0840c05d9d4fe25632.jpg)
+generated](../../../../.gitbook/assets/4bd98747b79ded0840c05d9d4fe25632.jpg)
 
 #### Device
 
@@ -229,20 +229,20 @@ With a device paired and connected, The **Device Tab** will update device Firmwa
 5. Update: The **Update** button loads the updates checked.
 
 ![A screenshot of a computer Description automatically
-generated](Images/241165f164959cc0ee966c1854750e86.jpeg)
+generated](../../../../.gitbook/assets/241165f164959cc0ee966c1854750e86.jpeg)
 
 #### Configs
 
 The **Configs Tab** will update the device’s configurations.
 
 1. Log: The Configs Tab contains a log of all events.
-2. **Clear Log**: The Clear Log button will remove all log data until a new instance is provided by the reader. The Refresh ![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg) button will refresh the list of available configurations for the device connected.
+2. **Clear Log**: The Clear Log button will remove all log data until a new instance is provided by the reader. The Refresh ![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>) button will refresh the list of available configurations for the device connected.
 3. **Force Update: This option will update configs when checked.**
 4. **Config List**: Tap on the desired configuration to select.
 5. Update: Press the **Update** button to load the selected config.
 
 ![A screenshot of a computer Description automatically
-generated](Images/08c1c059c066d7502d176ac14dcd5fe7.jpeg)
+generated](../../../../.gitbook/assets/08c1c059c066d7502d176ac14dcd5fe7.jpeg)
 
 #### Commands
 
@@ -254,14 +254,14 @@ The **Commands Tab** allows users to send commands to a device. Responses are re
 4. **Send**: This button sends commands to the reader.
 
 ![A screenshot of a computer Description automatically
-generated](Images/ab38719b8480c00bc3c844beda475e79.jpeg)
+generated](../../../../.gitbook/assets/ab38719b8480c00bc3c844beda475e79.jpeg)
 
 #### About
 
 The About Tab will display the App PN number, current version, and a link to **FAQs** available at MagTek.com.
 
 ![A screenshot of a phone Description automatically
-generated](Images/eeb78c45fad2cef82cd4edfd307745db.png) ![](Images/29f184b58e7e4c3d4696729c56a27fb3.png)
+generated](../../../../.gitbook/assets/eeb78c45fad2cef82cd4edfd307745db.png) ![](../../../../.gitbook/assets/29f184b58e7e4c3d4696729c56a27fb3.png)
 
 ## User Instructions
 
@@ -276,12 +276,12 @@ To connect to a device via Lightning/USB-C, plug the device into a compatible iP
 3. Tap on the **Device Name** to connect.
 
 ![A screenshot of a phone Description automatically
-generated](Images/2342e61cc0cd37c31ef5bd62042bb869.jpg)
+generated](../../../../.gitbook/assets/2342e61cc0cd37c31ef5bd62042bb869.jpg)
 
 Upon successful connection, the user will receive this message indicating the device is connected.
 
 ![A screenshot of a computer Description automatically
-generated](Images/70ac12ef806dcd3cdd6cd8f7ce1b263b.jpeg)
+generated](../../../../.gitbook/assets/70ac12ef806dcd3cdd6cd8f7ce1b263b.jpeg)
 
 #### Bluetooth LE
 
@@ -289,14 +289,14 @@ To connect to a device via Bluetooth LE, open the iOS app and follow the steps b
 
 1. Select the **Device Type**.
 2. Select the **Interface Type**.
-3. Press the Refresh ![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg) button if the device does not appear.
+3. Press the Refresh ![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>) button if the device does not appear.
 4. Tap on the **Device Name** below.
 5. When connected an alert will appear.
 
-![](Images/043069f642357c47638373a6585f3cda.jpg)
+![](../../../../.gitbook/assets/043069f642357c47638373a6585f3cda.jpg)
 
 ![A close up of a sign Description automatically
-generated](Images/298281dfe0475a9c81401fd62cc92eef.jpg)
+generated](<../../../../.gitbook/assets/298281dfe0475a9c81401fd62cc92eef (1).jpg>)
 
 **Bluetooth LE - Connecting a MagneSafe Device**
 
@@ -304,38 +304,38 @@ To connect a MagneSafe device to RMS via Bluetooth LE, enable pairing on the Mag
 
 1. Select the **Device Type**.
 2. Select the **Interface Type**.
-3. **Select the specific MagneSafe Device** ![](Images/231cbcd0581eaaaa6d5f40b44e0b8fb8.jpeg)
-4. Press the Refresh ![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg) button if the device does not appear.
+3. **Select the specific MagneSafe Device** ![](../../../../.gitbook/assets/231cbcd0581eaaaa6d5f40b44e0b8fb8.jpeg)
+4. Press the Refresh ![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>) button if the device does not appear.
 5. Tap on the **Device Name** below.
 6. When connected an alert will appear.
 
-![](Images/27690b2c8c730116c4e6ed69505562bc.jpeg)
+![](../../../../.gitbook/assets/27690b2c8c730116c4e6ed69505562bc.jpeg)
 
 ![A close up of a sign Description automatically
-generated](Images/b5f9767d7fe527441fe197c12c67adb6.jpg)
+generated](../../../../.gitbook/assets/b5f9767d7fe527441fe197c12c67adb6.jpg)
 
-#### ![A close up of a sign Description automatically generated](Images/298281dfe0475a9c81401fd62cc92eef.jpg)WebSocket
+#### ![A close up of a sign Description automatically generated](<../../../../.gitbook/assets/298281dfe0475a9c81401fd62cc92eef (1).jpg>)WebSocket
 
 To connect to a device via WebSocket (WLAN), follow the instructions in the device’s installation and operation manual, see **Appendix B Related Documentation**.
 
 * Select the **Device Type** _(Only DynaFlex Products Support WLAN currently.)_
 * Select **WebSocket**.
 * Enter the device IP address in the prompt and press **OK**.
-* Press the Refresh ![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg) button if the device does not appear. Press on the **Device Name** to connect.
+* Press the Refresh ![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>) button if the device does not appear. Press on the **Device Name** to connect.
 
 ![A screenshot of a computer Description automatically
-generated](Images/b5faf56134409c1ff96eabca0f02bd43.png)
+generated](../../../../.gitbook/assets/b5faf56134409c1ff96eabca0f02bd43.png)
 
 ![A screenshot of a computer Description automatically
-generated](Images/d7f73137aef97019de13e2063e9db2f5.png)
+generated](../../../../.gitbook/assets/d7f73137aef97019de13e2063e9db2f5.png)
 
 ### Update Firmware and EMV Tags/CAPKS
 
 To update device Firmware and EMV Tags/CAPKS, check the desired item to update and press the **Update** button. Only the updates that are checked will be loaded to the device. A prompt will appear asking the user not to manually turn off the screen, press **OK**.
 
-![](Images/ef913c483d830d4ff8ff45cf792acb5c.png) ![A screenshot of a computer
+![](../../../../.gitbook/assets/ef913c483d830d4ff8ff45cf792acb5c.png) ![A screenshot of a computer
 Description automatically
-generated](Images/2f8300e9d6c8027001cc3ae1eeaefac2.png)
+generated](../../../../.gitbook/assets/2f8300e9d6c8027001cc3ae1eeaefac2.png)
 
 Note: The Force Update Firmware option is available only on MagneSafe Devices.
 
@@ -348,7 +348,7 @@ The log will indicate:
 * If updates have failed
 
 ![A screenshot of a computer Description automatically
-generated](Images/1e8273849940761846616abddabf6c32.png)
+generated](../../../../.gitbook/assets/1e8273849940761846616abddabf6c32.png)
 
 ### Configurations
 
@@ -357,11 +357,11 @@ To update or change your device’s configurations:
 * Tap on desired configuration to select.
 * Press the **Update** button to load the update.
 * Press **Clear Log** to clear the log.
-* Press the **Refresh**![](Images/c4ce70a87fcbf64217a33ab204f3e280.jpg) to refresh the list of available configurations if none appear.
+* Press the **Refresh**![](<../../../../.gitbook/assets/c4ce70a87fcbf64217a33ab204f3e280 (1).jpg>) to refresh the list of available configurations if none appear.
 
 The log will indicate if the configuration update is successful or if it has failed.
 
-![](Images/45eb075e35447632104609b8b4317dd3.png)
+![](../../../../.gitbook/assets/45eb075e35447632104609b8b4317dd3.png)
 
 ### Commands
 
@@ -370,7 +370,7 @@ To send a command to the device and receive a response:
 * Enter a command in the **Command Field** and press **Send**.
 
 ![A screenshot of a computer Description automatically
-generated](Images/b86ac35a5680b5f162ed8afee7e53000.png)
+generated](../../../../.gitbook/assets/b86ac35a5680b5f162ed8afee7e53000.png)
 
 In this example, the command entered was successfully sent and a response returned. This command turns on the device’s Bar Code Reader LED. The log indicates it was sent successfully, the response command matched the programmer’s manual and the LED illuminated. Refer to your device’s particular programmer’s manual for a full list of commands, see **Appendix B Related Documentation**.
 

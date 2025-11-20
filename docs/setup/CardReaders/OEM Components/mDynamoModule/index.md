@@ -1,13 +1,12 @@
 ---
 title: mDynamo Module
-layout: home
 parent: OEM Components
 nav_order: 1
 ---
 
 # mDynamo
 
-![mDynamo Image](Images/img01.jpg)
+![mDynamo Image](<../../../../../.gitbook/assets/img01 (10).jpg>)
 
 mDynamo is made for OEM solutions and is an EMV module that connects via USB with two auxiliary ports (SPI and UART)
 

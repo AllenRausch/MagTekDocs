@@ -1,14 +1,12 @@
 ---
 title: DynaPro Go
-layout: home
 parent: MagneSafe V5 Secure Card Reader Authenticators
 nav_order: 4
 ---
 
 # DynaPro Go
 
-![DynaPro Go Image](Images/img01.jpg)
-
+![DynaPro Go Image](../../../../../.gitbook/assets/img01.jpg)
 
 Handheld and versatile, ready for mobile payments and secure PIN entry.
 

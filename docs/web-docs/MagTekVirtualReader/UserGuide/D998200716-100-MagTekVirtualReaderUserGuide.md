@@ -10,7 +10,7 @@ The **MagTekVirtualReader** app enables **Tap to Pay** transactions on Apple iPh
 
 ***
 
-![Tap to Pay on iPhone with MagTek](assets/images/001-TaptoPayRendered.png)
+![Tap to Pay on iPhone with MagTek](../../../../.gitbook/assets/001-TaptoPayRendered.png)
 
 **Figure 1.** Tap to Pay on iPhone using **MagTekVirtualReader** — present a contactless card or mobile device near the iPhone to initiate a secure transaction.
 
@@ -69,7 +69,7 @@ This app is intended for **developers, testers, and pilot merchants**. It connec
 1. Once released, download the **Virtual Reader** app from the designated MagTek.com link (or TestFlight/enterprise distribution if provided).
 2. On your iPhone, locate the app icon and tap to open.
 
-![Virtual Reader app on iOS Home Screen](assets/images/01-home-screen.png)
+![Virtual Reader app on iOS Home Screen](../../../../.gitbook/assets/01-home-screen.png)
 
 **Figure 2.** iOS **Virtual Reader** app icon.
 
@@ -90,7 +90,7 @@ Open the app and expand **CONFIGURATION**. The only item available is **View Log
 
 ***
 
-![Configuration actions](assets/images/02-configuration-actions.png)
+![Configuration actions](../../../../.gitbook/assets/02-configuration-actions.png)
 
 **Figure 3.** **CONFIGURATION** panel with setup actions. These fields come preconfigured.
 
@@ -106,7 +106,7 @@ Open the app and expand **CONFIGURATION**. The only item available is **View Log
 4. Tap **Pay**.
 5. Present a contactless card/phone/watch near the top of the iPhone and follow on-screen prompts.
 
-![Enter amount and Pay](assets/images/03-enter-amount-pay.png)
+![Enter amount and Pay](../../../../.gitbook/assets/03-enter-amount-pay.png)
 
 **Figure 4.** Enter an amount, confirm **Processor** and **Transaction** type, then tap **Pay** to start Tap to Pay.
 
@@ -116,11 +116,11 @@ Open the app and expand **CONFIGURATION**. The only item available is **View Log
 
 When the transaction completes, the app displays an **APPROVED** or **DECLINED** dialog with summary details.
 
-![Approved](assets/images/04-approved.jpg)
+![Approved](../../../../.gitbook/assets/04-approved.jpg)
 
 **Figure 5.** **APPROVED** result showing `approvedAmount` and `transactionId`. Tap **OK** to return to the main screen.
 
-![Declined](assets/images/05-declined.png)
+![Declined](../../../../.gitbook/assets/05-declined.png)
 
 **Figure 6.** **DECLINED** result with requested/authorized amounts and a transaction reference for support.
 
@@ -133,7 +133,7 @@ Use **View Log** under **CONFIGURATION** to see detailed events from the Virtual
 * Helpful for QA and support.
 * Avoid sharing logs that include sensitive IDs outside your test org.
 
-![View Log screen](assets/images/06-ViewLog.png)
+![View Log screen](../../../../.gitbook/assets/06-ViewLog.png)
 
 **Figure 6.** Example **View Log** output showing SDK version, iOS version, reader ID, and token fetch events.
 

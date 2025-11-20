@@ -1,13 +1,12 @@
 ---
 title: OEM USB Swipe Reader
-layout: home
 parent: OEM Components
 nav_order: 2
 ---
 
 # mDynamo
 
-![OEM USB Swipe Reader](Images/img01.jpg)
+![OEM USB Swipe Reader](<../../../../../.gitbook/assets/img01 (6).jpg>)
 
 mDynamo is made for OEM solutions and is an EMV module that connects via USB with two auxiliary ports (SPI and UART)
 

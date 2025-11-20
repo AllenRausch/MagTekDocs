@@ -22,10 +22,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');\
 &#x20;});\
 &#x20;
 
-| DynaFlex II GO Installation and Operation Manual                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| ![A close-up of a device Description automatically generated](<DynaFlex II Go Images/9fd12164974def7ad4c3fe270a989cc3.png>) |
-| June 2025 Document Number: D998200595-126 REGISTERED TO ISO 9001:2015                                                       |
+| DynaFlex II GO Installation and Operation Manual                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| ![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/9fd12164974def7ad4c3fe270a989cc3.png) |
+| June 2025 Document Number: D998200595-126 REGISTERED TO ISO 9001:2015                                                              |
 
 Copyright © 2006 - 2025 MagTek, Inc.
 
@@ -178,7 +178,7 @@ DynaFlex II Go and DynaFlex II Go BCR are easy to install and configure, with ke
 
 **Figure 1** illustrates the major components of DynaFlex II Go (BCR model shown). Models without a barcode reader are identical to the illustration, but do not have a camera and do not have a QR code printed on the front face.
 
-![A close-up of a fingerprint scanner Description automatically generated](<DynaFlex II Go Images/9a6cfaf06a3b70cae4511c4fdb09476f.png>)
+![A close-up of a fingerprint scanner Description automatically generated](../../../../../.gitbook/assets/9a6cfaf06a3b70cae4511c4fdb09476f.png)
 
 Figure 1 - DynaFlex II Go Major Components
 
@@ -237,7 +237,7 @@ The guidelines in the following sections are intended to help project planners a
 
 ## Handling and Storage
 
-| ![](<DynaFlex II Go Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                          |
+| ![](../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Proper handling of the device throughout delivery, assembly, shipping, installation, usage, and maintenance is very important. Not following the guidelines in this document could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -283,7 +283,7 @@ The following sections describe how to connect DynaFlex II Go to a host using th
 
 #### How to Connect DynaFlex II Go to a Host Computer via USB-C
 
-![A drawing of a device Description automatically generated](<DynaFlex II Go Images/820c3f0f95c1e43cbaa1def833e224d8.png>)
+![A drawing of a device Description automatically generated](../../../../../.gitbook/assets/820c3f0f95c1e43cbaa1def833e224d8.png)
 
 Figure 2 - Connecting to a Host via USB-C
 
@@ -294,15 +294,15 @@ To connect DynaFlex II Go products to a USB host computer or charger using the U
 3. If the specific device serial number you are connecting has not been previously connected to the host, the Windows system tray on the host reports it is setting up a device.
 4. When installation is complete, Windows reports **Device is ready**, (see **Figure 3 – Setup Complete)** and the device shows in Windows Device Manager under **Human Interface Devices** (**see Figure 4 – Windows Device Manager**) as two devices: **HID-compliant vendor-defined device** (see **Figure 5 – HID Compliant Vendor-defined Device Properties**) with VID **0801** and PID **2024**, and **USB Input Device**.
 
-![A screenshot of a computer Description automatically generated](<DynaFlex II Go Images/5242ab19616db3c9047b5c511b6cf3ff.png>)
+![A screenshot of a computer Description automatically generated](../../../../../.gitbook/assets/5242ab19616db3c9047b5c511b6cf3ff.png)
 
 Figure 3 – Setup Complete
 
-![A screenshot of a computer Description automatically generated](<DynaFlex II Go Images/2594ddbb972171fe207210fcccaee568.png>)
+![A screenshot of a computer Description automatically generated](../../../../../.gitbook/assets/2594ddbb972171fe207210fcccaee568.png)
 
 Figure 4 – Windows Device Manager
 
-![A screenshot of a computer Description automatically generated](<DynaFlex II Go Images/42c4a5805bcf9f513fc90e9275163e6a.png>)
+![A screenshot of a computer Description automatically generated](../../../../../.gitbook/assets/42c4a5805bcf9f513fc90e9275163e6a.png)
 
 Figure 5 – HID Compliant Vendor-defined Device Properties
 
@@ -368,7 +368,7 @@ DynaFlex II Go products are designed to provide flexible mounting options:
 
 #### How to Mount DynaFlex II Go
 
-| ![](<DynaFlex II Go Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                                                                                             |
+| ![](../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | This document describes how to use DynaFlex II Go securely. Using the device in any way other than the approved methods described in this document invalidates the PCI PTS approval of the device. Not following the guidelines in this section could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -383,7 +383,7 @@ When designing the mechanical portions of a solution that incorporates DynaFlex 
 
 Overall dimensions of the device are shown in **Figure 6**. On request, MagTek can provide a 3D model of the device’s envelope to assist with the mechanical portion of solution design. MagTek strongly recommends building and testing prototypes with actual devices before finalizing the solution design.
 
-![A diagram of a card reader Description automatically generated](<DynaFlex II Go Images/4dfda043f5da3255f778264f438f868a.JPG>)
+![A diagram of a card reader Description automatically generated](../../../../../.gitbook/assets/4dfda043f5da3255f778264f438f868a.JPG)
 
 Figure 6 - DynaFlex II Go Overall Dimensions
 
@@ -405,19 +405,19 @@ For each transaction type, the host software directs the cardholder. The transac
 
 All DynaFlex II Go devices have a single physical button, see **Figure 61 - Power Button**. Pressing and holding this button can activate extra functions. To active a specific function, press and hold the button until a specific number of beeps are heard. **Table 61 - Button Functions** contains functions that can be activated. Beep counts that are not listed are not supported.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/f978f9763e490b07b99c80ece38ec294.png>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/f978f9763e490b07b99c80ece38ec294.png)
 
 **Figure 61 - Power Button**
 
 **Table 61 - Button Functions**
 
-| Beep Count | Function                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2          | **Power Off** Hold for two beeps to power the device off. The device will reboot if it is connected to USB when powered off.                                                                                                                                                                                                                                                                                                                                                 |
-| 3          | **Settings Menu** SoftAP Mode in the Settings Menu is Available on WLAN enabled devices only.                                                                                                                                                                                                                                                                                                                                                                                |
-| 4          | **BLE Pairing** BLE Enabled devices only.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 5          | **Demo** See Appendix C for more information.                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 6          | **Battery Level** Light the LEDs to indicate the current state of charge of the battery. The LEDs will light for 3 seconds then return to their original state. ![A table with green and black text Description automatically generated](<DynaFlex II Go Images/f2360506bcf6ee65eed8eea973e3519b.png>) DynaFlex II Go has only green LEDs. Instead of lighting the first LED in amber, it will slowly flash the first LED. Instead of Red, the first LED will flash quickly. |
+| Beep Count | Function                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2          | **Power Off** Hold for two beeps to power the device off. The device will reboot if it is connected to USB when powered off.                                                                                                                                                                                                                                                                                                                                                        |
+| 3          | **Settings Menu** SoftAP Mode in the Settings Menu is Available on WLAN enabled devices only.                                                                                                                                                                                                                                                                                                                                                                                       |
+| 4          | **BLE Pairing** BLE Enabled devices only.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 5          | **Demo** See Appendix C for more information.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 6          | **Battery Level** Light the LEDs to indicate the current state of charge of the battery. The LEDs will light for 3 seconds then return to their original state. ![A table with green and black text Description automatically generated](../../../../../.gitbook/assets/f2360506bcf6ee65eed8eea973e3519b.png) DynaFlex II Go has only green LEDs. Instead of lighting the first LED in amber, it will slowly flash the first LED. Instead of Red, the first LED will flash quickly. |
 
 *
 
@@ -430,7 +430,7 @@ During operation, DynaFlex II Go devices transition between distinct operating m
 
 When in Bluetooth® LE Sleep Mode, DynaFlex II Go will conserve battery life by limiting power to non-essential hardware features and entering low power mode. When in Sleep Mode, the device will appear to be powered off, with no LEDs illuminated, see **Figure 7 – Bluetooth® (LE) Sleep Mode**. For information on how to disable this feature, see **D998200597 DynaFlex II Go Programmer’s Manual (COMMANDS).**
 
-![](<DynaFlex II Go Images/ae69f4b03c0748ff9fbd64f521017a05.png>)
+![](../../../../../.gitbook/assets/ae69f4b03c0748ff9fbd64f521017a05.png)
 
 Figure 7 – Bluetooth® (LE) Sleep Mode
 
@@ -468,7 +468,7 @@ As mentioned in section **1.1 Key Features and Components**, DynaFlex II Go mode
 * DynaFlex II Go BCR devices have a user interface composed of four elements: a visual indicator consisting of four LEDs, a barcode reader status LED, a beeper that produces audible alerts, and a power button see **Figure 61 - Power Button**.
 * DynaFlex II Go devices do not feature input components such as touch screens.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/b775d6c4e82bce75a0caa119b31b6ddf.png>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/b775d6c4e82bce75a0caa119b31b6ddf.png)
 
 **Figure 71 – DynaFlex II Go and DynaFlex II Go BCR**
 
@@ -478,7 +478,7 @@ As mentioned in section **1.1 Key Features and Components**, DynaFlex II Go mode
 
 The arrangement of the four LED indicators on DynaFlex II Go devices is illustrated in **Figure 72**. The LEDs are designated 1 to 4 and are ordered from left to right on the device.
 
-![A white rectangular device with a hand pressing a button Description automatically generated](<DynaFlex II Go Images/b1a2e232dc7ededd067821b80cdf8b84.png>)
+![A white rectangular device with a hand pressing a button Description automatically generated](../../../../../.gitbook/assets/b1a2e232dc7ededd067821b80cdf8b84.png)
 
 **Figure 72 - LED Ordering**
 
@@ -494,7 +494,7 @@ When DynaFlex II Go is powered on, its LEDs will illuminate green, when it is po
 
 DynaFlex II Go devices equipped with a bar code reader have a status LED that indicates whether the barcode feature is scanning.
 
-![](<DynaFlex II Go Images/e9475d73642ce1b52b2da3779cfd894a.png>) ![](<DynaFlex II Go Images/e9475d73642ce1b52b2da3779cfd894a.png>)
+![](../../../../../.gitbook/assets/e9475d73642ce1b52b2da3779cfd894a.png) ![](../../../../../.gitbook/assets/e9475d73642ce1b52b2da3779cfd894a.png)
 
 **Figure 74 - BCR Status LED**
 
@@ -506,7 +506,7 @@ All DynaFlex II Go devices are equipped with a beeper that produces a short beep
 
 DynaFlex II Go will power on immediately when connected to USB power. A brief beep will sound, and all four LEDs will turn on for half a second, as shown in **Figure 75**. Following this, LED 1 and LED 2 will remain illuminated, while LED 3 and LED 4 will remain unlit.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/f9e9deeb6139514637f2762972a56d4a.jpg>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/f9e9deeb6139514637f2762972a56d4a.jpg)
 
 **Figure 75 – LED Power on Sequence – USB Power On**
 
@@ -514,7 +514,7 @@ DynaFlex II Go will power on immediately when connected to USB power. A brief be
 
 When DynaFlex II Go is connected via USB in an idle state, it can be detected by a host through the USB HID port see **Figure 76**. After the host has connected to DynaFlex II Go, LED 1 will stay on. The device is in Ready State.
 
-![A black square with white text Description automatically generated](<DynaFlex II Go Images/70a461fbd0c75542a95d769ed7441e9b.JPG>) ![A black square with white text Description automatically generated](<DynaFlex II Go Images/2f80be7122cac3b84faec073da5dcb3b.JPG>)
+![A black square with white text Description automatically generated](../../../../../.gitbook/assets/70a461fbd0c75542a95d769ed7441e9b.JPG) ![A black square with white text Description automatically generated](../../../../../.gitbook/assets/2f80be7122cac3b84faec073da5dcb3b.JPG)
 
 **Figure 76 - LED Status (Idle State) Before Host Detection and LED Status (USB Ready State) After Connecting to Host**
 
@@ -561,11 +561,11 @@ LED 3 is designated for indicating readiness for Bluetooth® message exchange.
 
 Press and hold the Power Button for two seconds: initially, LED 4 will light up, followed by all four LEDs illuminating for one second. This is followed by LEDs 1 and 2 remaining lit for 2 seconds, after which only LED 1 will be active.
 
-![A close up of a device Description automatically generated](<DynaFlex II Go Images/865f32ad54420ca786c5f179b39fd635.jpg>)
+![A close up of a device Description automatically generated](../../../../../.gitbook/assets/865f32ad54420ca786c5f179b39fd635.jpg)
 
 Figure 8 - Power On in Battery Operating Mode
 
-![A black square with white text and green lights Description automatically generated](<DynaFlex II Go Images/b4b95162f8ffcf8efc92a898ce07aa9c.JPG>)
+![A black square with white text and green lights Description automatically generated](../../../../../.gitbook/assets/b4b95162f8ffcf8efc92a898ce07aa9c.JPG)
 
 Figure 9 - LED Behavior for Bluetooth® Low Energy (LE) Ready State
 
@@ -575,7 +575,7 @@ If the host is within the Bluetooth® Low Energy (LE) connection range, all thre
 
 DynaFlex II Go is capable of being powered off while in Battery Operating Mode only. To initiate the power-off sequence, press and hold the Power Button for two beeps then release. It's important to note that DynaFlex II Go cannot be powered off while connected via USB. If a two-beep sequence is initiated while connected to USB the device will reboot.
 
-![A black square with white text Description automatically generated](<DynaFlex II Go Images/70a461fbd0c75542a95d769ed7441e9b.JPG>)
+![A black square with white text Description automatically generated](../../../../../.gitbook/assets/70a461fbd0c75542a95d769ed7441e9b.JPG)
 
 Figure 10 - Power Off Device in Battery Operating Mode
 
@@ -587,17 +587,17 @@ DynaFlex II Go must first be paired with the host device before a secure Bluetoo
 2. Release the Power Button
 3.  LED 1 will remain steadily illuminated while LED 4 will begin to blink. When LED 4 is blinking it indicates the device is waiting to pair with the host. It will continue to blink for 3 minutes, waiting to pair with the host.
 
-    ![A close-up of a card reader Description automatically generated](<DynaFlex II Go Images/adb028718902e13e6c6a85c5ef0a97d9.jpg>)
+    ![A close-up of a card reader Description automatically generated](../../../../../.gitbook/assets/adb028718902e13e6c6a85c5ef0a97d9.jpg)
 
     Figure 710 - Activate BLE Pairing Mode
 4.  When the host is pairing with DynaFlex II GO, LED 4 will remain off and LED 2 will power on, indicating the pair is processing.
 
-    ![A black square with white text and green lights Description automatically generated](<DynaFlex II Go Images/e37d7f1aa00c978f4b2e7beb4d64e059.JPG>)
+    ![A black square with white text and green lights Description automatically generated](../../../../../.gitbook/assets/e37d7f1aa00c978f4b2e7beb4d64e059.JPG)
 
     Figure 711 - Bluetooth® LE Pair Processing
 5.  The device will return to Power On status if pairing Succeeds or Fails. LED 2 will power off and LED 1 will remain powered on.
 
-    ![A black square with white text Description automatically generated](<DynaFlex II Go Images/2f80be7122cac3b84faec073da5dcb3b.JPG>)
+    ![A black square with white text Description automatically generated](../../../../../.gitbook/assets/2f80be7122cac3b84faec073da5dcb3b.JPG)
 
     Figure 712 - Pairing Successful/Failed
 
@@ -605,7 +605,7 @@ DynaFlex II Go must first be paired with the host device before a secure Bluetoo
 
 When the device establishes a connection to the host via BLE and is prepared for secure communication, all three LEDs (LED 1, 2, 3) will illuminate steadily.
 
-![A black square with white text and green lights Description automatically generated](<DynaFlex II Go Images/b4b95162f8ffcf8efc92a898ce07aa9c.JPG>)
+![A black square with white text and green lights Description automatically generated](../../../../../.gitbook/assets/b4b95162f8ffcf8efc92a898ce07aa9c.JPG)
 
 Figure 1 - BLE Connected to Host
 
@@ -613,7 +613,7 @@ Figure 1 - BLE Connected to Host
 
 When the device is disconnected from the host Bluetooth® Low Energy (LE) connection, LED 3 will power off first and after 4 seconds, LED 2 will power off, LED 1 will remain powered on as the device returns to Ready State.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/b07ad25330f21dc9600ad19eb5899e34.jpg>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/b07ad25330f21dc9600ad19eb5899e34.jpg)
 
 Figure 12 - Bluetooth® LE Disconnect LED Sequence
 
@@ -621,7 +621,7 @@ Figure 12 - Bluetooth® LE Disconnect LED Sequence
 
 When in Bluetooth® LE Sleep Mode, DynaFlex II Go will conserve battery life by limiting power to non-essential hardware features and entering low power mode. When in Sleep Mode, the device will appear to be powered off, with no LEDs illuminated, see **Figure 7 – Bluetooth® (LE) Sleep Mode**. For information on how to disable this feature, see **D998200597 DynaFlex II Go Programmer’s Manual (COMMANDS).**
 
-![](<DynaFlex II Go Images/ae69f4b03c0748ff9fbd64f521017a05.png>)
+![](../../../../../.gitbook/assets/ae69f4b03c0748ff9fbd64f521017a05.png)
 
 Figure 7 – Bluetooth® (LE) Sleep Mode
 
@@ -631,11 +631,11 @@ Figure 7 – Bluetooth® (LE) Sleep Mode
 
 When the operator presses the **Start** button on the host device, LED 1,2, and the BCR status light will be illuminated see **Figure 716**. When a barcode is detected, only LED 1 will remain illuminated, the BCR status LED will be off, and a long beep will sound see **Figure 717**.
 
-![A close-up of a card reader Description automatically generated](<DynaFlex II Go Images/e583e57753036b5b650628cb0dc75839.jpg>)
+![A close-up of a card reader Description automatically generated](../../../../../.gitbook/assets/e583e57753036b5b650628cb0dc75839.jpg)
 
 **Figure 716 – BCR Transaction USB Ready State**
 
-![A black square with a fingerprint scanner Description automatically generated](<DynaFlex II Go Images/55592f66b1250b985b7b06e8e52fc213.jpg>)
+![A black square with a fingerprint scanner Description automatically generated](../../../../../.gitbook/assets/55592f66b1250b985b7b06e8e52fc213.jpg)
 
 **Figure 717 – BCR Transaction Barcode Detected (Connected via USB)**
 
@@ -643,11 +643,11 @@ When the operator presses the **Start** button on the host device, LED 1,2, and 
 
 When the operator presses the **Start** transaction button on the host device, LED 1 and 2 will remain on. When a card is swiped, LEDs 1,2 and 4 will turn on in sequence (1,2 then 4), followed by a long beep, indicating a successful transaction, see **Figure 718**. After a successful transaction, the device will return to the ready state, see **Figure 719**.
 
-![](<DynaFlex II Go Images/373ab8afe89113dbe26a56754a8eff96.png>)
+![](../../../../../.gitbook/assets/373ab8afe89113dbe26a56754a8eff96.png)
 
 **Figure 718 – LED Sequence – Payment Transaction Successful MSR Swipe (Connected via USB)**
 
-![A close-up of a card reader Description automatically generated](<DynaFlex II Go Images/ebb68dac3f6d5864656de76c365f3532.png>)
+![A close-up of a card reader Description automatically generated](../../../../../.gitbook/assets/ebb68dac3f6d5864656de76c365f3532.png)
 
 **Figure 719 – Return to Ready State After Successful Transaction**
 
@@ -655,7 +655,7 @@ When the operator presses the **Start** transaction button on the host device, L
 
 When the operator presses the **Start** transaction button on the host device, LED 1 and 2 will remain on. When a card is inserted, LEDs 1, 2 and 4 will turn on in sequence, followed by a long beep, indicating a successful transaction, see **Figure 14 – LED Sequence – Payment Transaction Successful EMV Contact (Connected** via USB). LED 4 will remain on, and the device will sound a double beep until the card is removed from the slot. After a successful transaction, the device will return to the ready state, see **Figure 719**.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/be72b1dabb9b6a55894b1ced35bf001e.jpg>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/be72b1dabb9b6a55894b1ced35bf001e.jpg)
 
 Figure 14 – LED Sequence – Payment Transaction Successful EMV Contact (Connected via USB)
 
@@ -663,7 +663,7 @@ Figure 14 – LED Sequence – Payment Transaction Successful EMV Contact (Conne
 
 When the operator presses the **Start** transaction button on the host device, LED 1 will remain on. When a card is presented within range of the contactless reader, LEDs 1,2,3, and 4 will turn on in sequence, followed by a long beep, indicating a successful transaction, see **Figure 15 - LED Sequence – Payment Transaction Successful EMV Contactless (Connected** via USB). After a successful transaction, the device will return to the ready state, see **Figure 719**.
 
-![A close-up of a card reader Description automatically generated](<DynaFlex II Go Images/4d3475d61fce928806ece768186639d2.jpg>)
+![A close-up of a card reader Description automatically generated](../../../../../.gitbook/assets/4d3475d61fce928806ece768186639d2.jpg)
 
 Figure 15 - LED Sequence – Payment Transaction Successful EMV Contactless (Connected via USB)
 
@@ -671,11 +671,11 @@ Figure 15 - LED Sequence – Payment Transaction Successful EMV Contactless (Con
 
 When the operator presses the **Start** button on the host device, LED 1,2, and the BCR status light will be illuminated see **Figure 722**. When a barcode is detected, only LED 1 will remain illuminated, the BCR status LED will be off, and a long beep will sound see **Figure 723**.
 
-![A close-up of a card reader Description automatically generated](<DynaFlex II Go Images/e583e57753036b5b650628cb0dc75839.jpg>)
+![A close-up of a card reader Description automatically generated](../../../../../.gitbook/assets/e583e57753036b5b650628cb0dc75839.jpg)
 
 **Figure 722 – BCR Transaction Bluetooth® LE Ready State**
 
-![A black square with a fingerprint scanner Description automatically generated](<DynaFlex II Go Images/55592f66b1250b985b7b06e8e52fc213.jpg>)
+![A black square with a fingerprint scanner Description automatically generated](../../../../../.gitbook/assets/55592f66b1250b985b7b06e8e52fc213.jpg)
 
 **Figure 723 – BCR Transaction Barcode Detected (Connected via Bluetooth® LE)**
 
@@ -683,11 +683,11 @@ When the operator presses the **Start** button on the host device, LED 1,2, and 
 
 When the operator presses the **Start** transaction button on the host device, LED 1 and 2 will remain on. When a card is swiped, LEDs 1,2 and 4 will turn on in sequence (1,2, then 4), followed by a long beep, indicating a successful transaction, see **Figure 724**. After a successful transaction, the device will return to the ready state, see **Figure 725**.
 
-![](<DynaFlex II Go Images/3de9d5925c36e946bd610702ba95606f.png>)
+![](../../../../../.gitbook/assets/3de9d5925c36e946bd610702ba95606f.png)
 
 **Figure 724 – LED Sequence – Payment Transaction Successful MSR Swipe (Connected via Bluetooth® LE)**
 
-![A black square with white text and green lights Description automatically generated](<DynaFlex II Go Images/b4b95162f8ffcf8efc92a898ce07aa9c.JPG>)
+![A black square with white text and green lights Description automatically generated](../../../../../.gitbook/assets/b4b95162f8ffcf8efc92a898ce07aa9c.JPG)
 
 **Figure 725 – Return to Ready State After Successful Transaction (Bluetooth® LE Ready State)**
 
@@ -695,7 +695,7 @@ When the operator presses the **Start** transaction button on the host device, L
 
 When the operator presses the **Start** transaction button on the host device, LED 1 and 2 will remain on. When a card is inserted, LEDs 1,2 and 4 will turn on in sequence, followed by a long beep, indicating a successful transaction, see **Figure 16 - LED Sequence – Payment Transaction Successful EMV Contact (Connected via** Bluetooth® LE). LED 4 will remain on and the device will sound a double beep until the card is removed from the slot. After a successful transaction, the device will return to the ready state, see **Figure 725**.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/1372e79778065565171e0b629578a908.jpg>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/1372e79778065565171e0b629578a908.jpg)
 
 Figure 16 - LED Sequence – Payment Transaction Successful EMV Contact (Connected via Bluetooth® LE)
 
@@ -703,7 +703,7 @@ Figure 16 - LED Sequence – Payment Transaction Successful EMV Contact (Connect
 
 When the operator presses the **Start** transaction button on the host device, LED 1 will remain on from ready state. When a card is presented within range of the contactless reader, LEDs 1,2,3, and 4 will turn on in sequence, followed by a long beep, indicating a successful transaction, see **Figure 17**. After a successful transaction, the device will return to the ready state, see **Figure 725**.
 
-![A close-up of a device Description automatically generated](<DynaFlex II Go Images/a2f278d23bdbc8fde8d39a7ccefafcb1.jpg>)
+![A close-up of a device Description automatically generated](../../../../../.gitbook/assets/a2f278d23bdbc8fde8d39a7ccefafcb1.jpg)
 
 Figure 17 - LED Sequence – Payment Transaction Successful EMV Contactless (Connected via Bluetooth® LE)
 
@@ -713,10 +713,10 @@ Figure 17 - LED Sequence – Payment Transaction Successful EMV Contactless (Con
 
 Table 6 - LED and BCR Indicator Light ON/OFF State
 
-| **ON/OFF State**        |                                                                                                                                                                |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **LED**                 | ![A green and grey circles Description automatically generated](<DynaFlex II Go Images/6514c3a70db2c32d4e197391ea2c64aa.png>)                                  |
-| **BCR Indicator Light** | ![A couple of triangles with shadows Description automatically generated with medium confidence](<DynaFlex II Go Images/087cf4d85d952661bfb764ad2598951a.png>) |
+| **ON/OFF State**        |                                                                                                                                                                       |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LED**                 | ![A green and grey circles Description automatically generated](../../../../../.gitbook/assets/6514c3a70db2c32d4e197391ea2c64aa.png)                                  |
+| **BCR Indicator Light** | ![A couple of triangles with shadows Description automatically generated with medium confidence](../../../../../.gitbook/assets/087cf4d85d952661bfb764ad2598951a.png) |
 
 Table 7 - LED Behavior for Errors, Timeouts, and Canceled Transactions
 
@@ -739,9 +739,9 @@ With a sufficiently charged battery, the device will power on when the power but
 
 #### How to Charge the Battery
 
-| ![A black and white sign with letters Description automatically generated](<DynaFlex II Go Images/03555afcb3177a7ebf5f264c12d86851.png>)       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Per UL requirements, the device is designed to not recharge its internal battery when the external temperature is below 0°C or above 40°C.** |
+| ![A black and white sign with letters Description automatically generated](../../../../../.gitbook/assets/03555afcb3177a7ebf5f264c12d86851.png) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Per UL requirements, the device is designed to not recharge its internal battery when the external temperature is below 0°C or above 40°C.**  |
 
 DynaFlex II Go products have an optional rechargeable battery to supply their own power when they are not powered through the USB-C port. The battery must be periodically recharged by connecting the device to a USB port or stand-alone USB charger. The device requires a USB power supply that can provide at least **500mA @ 5V**.
 
@@ -792,7 +792,7 @@ To tap a contactless card or smartphone, follow these steps:
    3. The device beeps twice.
    4.  The device notifies the host that the transaction failed. If this occurs, the host software may choose to retry the transaction or revert to prompting the operator to perform another operation that is specific to the solution design.
 
-       ![A close-up of a card Description automatically generated](<DynaFlex II Go Images/857b22bb8e88b40f75c40591438a384c.jpg>) ![A close-up of a phone Description automatically generated](<DynaFlex II Go Images/b16868fb66ee336e6d18ace9a16d0bf0.JPG>)
+       ![A close-up of a card Description automatically generated](../../../../../.gitbook/assets/857b22bb8e88b40f75c40591438a384c.jpg) ![A close-up of a phone Description automatically generated](../../../../../.gitbook/assets/b16868fb66ee336e6d18ace9a16d0bf0.JPG)
 
 Figure 18 - Tapping a Contactless Card / Smartphone
 
@@ -815,7 +815,7 @@ To scan a barcode, follow these steps:
    1. The device beeps once.
    2. The device turns off the barcode reader indicator LED.
 
-![](<DynaFlex II Go Images/fd7cd5907b37f38f73d15117e701622e.png>)
+![](../../../../../.gitbook/assets/fd7cd5907b37f38f73d15117e701622e.png)
 
 Figure 20 - Scanning a Barcode
 
@@ -864,7 +864,7 @@ To tap an NFC Contactless IC product and send pass-through commands, follow thes
 
 ### Mechanical Maintenance
 
-| ![](<DynaFlex II Go Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                         |
+| ![](../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870.png)                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DO NOT use liquid cleaning products or insert any other objects into the device. DO NOT apply any liquid directly onto the device, to avoid seepage into the electronics. |
 
@@ -1005,12 +1005,12 @@ Table 8 - Barcode Reader Supported Symbologies
 
 Tailored for use with mobile handsets, tablets, and desktop computers, DynaFlex II Go offers a variety of accessories designed to meet a wide range of operational needs.
 
-| **Part Number**                                     | **Description**                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **21078408** DYNAFLEX II GO, KIT COUNTERTOP STAND   | The Countertop Stand is well-suited for countertop placement or battery charging, providing a convenient and secure means of positioning the device. ![A diagram of a computer power cord Description automatically generated with medium confidence](<DynaFlex II Go Images/7b60e808419f9cce16d11980d5779d17.png>)                                                                              |
-| **21078409** DYNAFLEX II GO ADAPTOR FOR OTTERBOX    | Users can take advantage of the OtterBox® uniVERSE® adaptor for easy sliding and connection to a wide range of mobile devices, including phones and tablets. ![A black plastic holder with two clips Description automatically generated with medium confidence](<DynaFlex II Go Images/1ffb652d971598bec988c635b3c9553d.jpeg>)![](<DynaFlex II Go Images/cfbf04b67290a1181cf273537c30da86.png>) |
-| **21078410** DYNAFLEX II GO RUBBER SLEEVE           | DynaFlex II Go can be equipped with a full-rubber sleeve specifically engineered to enhance the device's ingress protection.![](<DynaFlex II Go Images/2b229e80a06fe29d5be8720577a7568a.jpeg>)![](<DynaFlex II Go Images/3a515eb97f676870213cce76e53604ec.png>)                                                                                                                                  |
-| **21078411** DYNAFLEX II GO RUBBER SLEEVE HALF SIZE | DynaFlex II Go offers the option to install a half-rubber sleeve, intended to boost the device's ingress protection when utilizing the OtterBox® uniVERSE® adaptor for DynaFlex II Go.![](<DynaFlex II Go Images/f10988ed25312bf2d7b8565d382d9ed6.jpeg>)![A blueprint of a computer device Description automatically generated](<DynaFlex II Go Images/73a762a2e8aa5c70adb880cc91189825.png>)    |
+| **Part Number**                                     | **Description**                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **21078408** DYNAFLEX II GO, KIT COUNTERTOP STAND   | The Countertop Stand is well-suited for countertop placement or battery charging, providing a convenient and secure means of positioning the device. ![A diagram of a computer power cord Description automatically generated with medium confidence](../../../../../.gitbook/assets/7b60e808419f9cce16d11980d5779d17.png)                                                                                     |
+| **21078409** DYNAFLEX II GO ADAPTOR FOR OTTERBOX    | Users can take advantage of the OtterBox® uniVERSE® adaptor for easy sliding and connection to a wide range of mobile devices, including phones and tablets. ![A black plastic holder with two clips Description automatically generated with medium confidence](../../../../../.gitbook/assets/1ffb652d971598bec988c635b3c9553d.jpeg)![](../../../../../.gitbook/assets/cfbf04b67290a1181cf273537c30da86.png) |
+| **21078410** DYNAFLEX II GO RUBBER SLEEVE           | DynaFlex II Go can be equipped with a full-rubber sleeve specifically engineered to enhance the device's ingress protection.![](../../../../../.gitbook/assets/2b229e80a06fe29d5be8720577a7568a.jpeg)![](../../../../../.gitbook/assets/3a515eb97f676870213cce76e53604ec.png)                                                                                                                                  |
+| **21078411** DYNAFLEX II GO RUBBER SLEEVE HALF SIZE | DynaFlex II Go offers the option to install a half-rubber sleeve, intended to boost the device's ingress protection when utilizing the OtterBox® uniVERSE® adaptor for DynaFlex II Go.![](../../../../../.gitbook/assets/f10988ed25312bf2d7b8565d382d9ed6.jpeg)![A blueprint of a computer device Description automatically generated](../../../../../.gitbook/assets/73a762a2e8aa5c70adb880cc91189825.png)    |
 
 **Warranty, Standards, and Certifications**
 
@@ -1095,7 +1095,7 @@ Testing for compliance with AS/NZS standards was performed by a registered and a
 
 **RoHS STATEMENT**
 
-When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](<DynaFlex II Go Images/4d77d9668e7bdc54b2ee2546cc21077c.png>)).
+When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](../../../../../.gitbook/assets/4d77d9668e7bdc54b2ee2546cc21077c.png)).
 
 **PCI Statement**
 
@@ -1111,7 +1111,7 @@ This product has been tested to **IEC 62368-1 -Audio/Video, information and comm
 
 **Safety Requirements**
 
-| ![A picture containing text, font, graphics, logo Description automatically generated](<DynaFlex II Go Images/bdb6a105147891251b84fbdb350ba870.png>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ![A picture containing text, font, graphics, logo Description automatically generated](../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Never do any of the following:** DO NOT use a ground adapter plug to connect equipment to a power socket-outlet that lacks a ground connection terminal. DO NOT attempt any maintenance function that is not specifically described in this manual or in other ExpressCard 3000 instructional documents published by MagTek. DO NOT remove any of the covers or guards that are fastened with screws. There are no user-serviceable areas within these covers. DO NOT override or “cheat” electrical or mechanical interlock devices. DO NOT use EC3000 supplies or cleaning materials for other than their intended purposes. DO NOT operate the equipment if you or anyone else have noticed unusual noises or odors. **Consider the following before operating the ExpressCard 3000:** Connect the EC3000 to a properly grounded AC power socket-outlet. If in doubt, have the socket-outlet checked by a qualified electrician. Improper connection of the device’s grounding conductor creates a risk of electric shock. Place the EC3000 on a solid surface that can safely support the device’s weight plus the weight of a person leaning against it (such as a service technician). Be careful when moving or relocating the device. Use proper lifting techniques. Use materials and supplies specifically designed for MagTek devices. Using unsuitable materials may result in poor performance, and in some cases may be hazardous. |
 

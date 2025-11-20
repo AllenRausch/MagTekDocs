@@ -1,14 +1,12 @@
 ---
 title: DynaPAD
-layout: home
 parent: Magnetic Stripe Card Readers and Keypad
 nav_order: 4
 ---
 
 # DynaPAD
 
-![DynaPAD](Images/img01.jpg)
-
+![DynaPAD](<../../../../../.gitbook/assets/img01 (3).jpg>)
 
 MagTek’s DynaPAD is a secure card reader authenticator (SCRA) combined with an easy-to-use keypad and a large 2-line x 15-digit liquid crystal display (LCD) allowing for either swipe card data or manual-entry of card data.
 

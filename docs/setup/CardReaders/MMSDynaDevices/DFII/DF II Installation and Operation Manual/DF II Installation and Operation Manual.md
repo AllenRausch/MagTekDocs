@@ -22,10 +22,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');\
 &#x20;});\
 &#x20;
 
-| \[DynaFlex II] \[Product Family] \[Document Installation and Operation Manual]                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![A close-up of a credit card reader Description automatically generated](Images/2e0af249a7a6574e16b220db98bf7e95.jpg)![](Images/ee3e17c34b913c38a1e55f5bb4e69fe5.jpeg) |
-| June 2025 Document Number: D998200554-101 REGISTERED TO ISO 9001:2015                                                                                                   |
+| \[DynaFlex II] \[Product Family] \[Document Installation and Operation Manual]                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![A close-up of a credit card reader Description automatically generated](<../../../../../../.gitbook/assets/2e0af249a7a6574e16b220db98bf7e95 (1).jpg>)![](<../../../../../../.gitbook/assets/ee3e17c34b913c38a1e55f5bb4e69fe5 (1).jpeg>) |
+| June 2025 Document Number: D998200554-101 REGISTERED TO ISO 9001:2015                                                                                                                                                                     |
 
 Copyright © 2006 - 2025 MagTek, Inc.
 
@@ -142,7 +142,7 @@ Table 2 - Available Models and Options
 The major components of the DynaFlex II product family are detailed in this section. For models without a touchscreen display (DynaFlex II and DynaFlex II Kiosk), the components are identical however, the touchscreen and its bezel are replaced with a faceplate displaying the contactless indicator logo at the optimal contactless landing zone (see Error! Reference source not found.).
 
 ![A diagram of a chip card reader Description automatically
-generated](Images/51dac222dbb3396b3ff95eeae00f8610.jpg)
+generated](<../../../../../../.gitbook/assets/51dac222dbb3396b3ff95eeae00f8610 (1).jpg>)
 
 Figure 1 - DynaFlex II Major components
 
@@ -150,20 +150,20 @@ DynaFlex II PED models without a barcode reader are also identical however, the 
 
 ![A computer mouse and a mousetrap Description automatically generated with
 medium
-confidence](Images/4f305d9e65278d8de291847058bf113e.png) ![](Images/c65c83ef5ad4f913141278b29a4cbc34.jpg)
+confidence](<../../../../../../.gitbook/assets/4f305d9e65278d8de291847058bf113e (1).png>) ![](../../../../../../.gitbook/assets/c65c83ef5ad4f913141278b29a4cbc34.jpg)
 
 Figure 2 - DynaFlex II PED BCR Major Components
 
 **Figure 3** illustrates the major components of the optional charging station. Note, the charging station is only compatible with non-kiosk models of the device.
 
 ![A drawing of a computer device Description automatically generated with medium
-confidence](Images/8843e0acef67d2389c8d366e7b36a220.jpg)
+confidence](<../../../../../../.gitbook/assets/8843e0acef67d2389c8d366e7b36a220 (1).jpg>)
 
 Figure 3 - Charging Station Major Components
 
 ## Inspection, Handling and Storage
 
-| ![](Images/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                                           |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (2).png>)                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Proper handling of the device throughout delivery, assembly, shipping, installation, usage, and maintenance is very important. Not following the guidelines in this document could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -214,7 +214,7 @@ The following sections provide information on how to connect **DynaFlex II produ
 
 #### How to Connect DynaFlex II Products to a Host or Charger via USB
 
-![](Images/77b114e6a6fcf8e1ec20ac760b27d6f8.jpg) ![](Images/6554e3a16d1acc42febbc3948dcbee68.jpg)
+![](<../../../../../../.gitbook/assets/77b114e6a6fcf8e1ec20ac760b27d6f8 (1).jpg>) ![](<../../../../../../.gitbook/assets/6554e3a16d1acc42febbc3948dcbee68 (1).jpg>)
 
 Figure 4 - Connecting to a USB Host or USB Charger. Left: Countertop Models. Right: Kiosk Models
 
@@ -228,15 +228,15 @@ To connect **DynaFlex II products** to a USB host or charger using the USB-C por
 6. As soon as the device starts receiving power through USB, it automatically powers on.
 7. If the specific device serial number you are connecting has not been connected to the host before, the device shows **Welcome** on the display, and the Windows system tray on the host reports it is **Setting up a device** (see **Figure 5 - Setting Up a Device**), When installation is complete (approximately 30 seconds later depending on the host), Windows reports **Device is ready**,(see **Figure 6 - Device is Ready**) and the device shows in Windows Device Manager under **Human Interface Devices** as two devices: **HID-compliant vendor-defined device** with VID **0801** and PID **2020**, and **USB Input Device**.
 
-![](Images/d5841466310637ef396b297725110ce3.png)
+![](<../../../../../../.gitbook/assets/d5841466310637ef396b297725110ce3 (1).png>)
 
 Figure 5 - Setting Up a Device
 
-![](Images/5242ab19616db3c9047b5c511b6cf3ff.png)
+![](<../../../../../../.gitbook/assets/5242ab19616db3c9047b5c511b6cf3ff (2).png>)
 
 Figure 6 - Device is Ready
 
-![](Images/2594ddbb972171fe207210fcccaee568.png) ![](Images/3f65691eadfe285152b3250ddfcd407e.png)
+![](<../../../../../../.gitbook/assets/2594ddbb972171fe207210fcccaee568 (2).png>) ![](<../../../../../../.gitbook/assets/3f65691eadfe285152b3250ddfcd407e (1).png>)
 
 8. After successfully connecting to the host operating system via USB, devices with a touchscreen display a **Welcome** screen or a customizable graphic.
 9. The operating system may put the device into **USB Suspend** mode. See section **4.6.6 About USB Suspend**.
@@ -250,21 +250,21 @@ The DynaFlex II product line offers versatile mounting solutions, including:
 * **Integrated Slip-Resistant Adhesive Strips**: The underside of the device features three adhesive mounting strips (see **Figure 7**) that provide secure attachment to any clean, non-porous surface. These strips come with a protective film that must be removed before installing onto a surface.
 
 ![A close-up of a device Description automatically
-generated](Images/6658d869079af0301016c5e5efe8b716.jpg)
+generated](<../../../../../../.gitbook/assets/6658d869079af0301016c5e5efe8b716 (1).jpg>)
 
 Figure 7 - Adhesive Mounting Strip and Protective Film
 
 * **Lanyard Mount Point**: The integrated mount point allows the device to be hung or carried, making it easy to store and handle, particularly in grab-and-go payment environments (see **Figure 8**).
 
 ![A close-up of a printer Description automatically
-generated](Images/943ab23a84415076f979e76de7af57e3.jpg)
+generated](<../../../../../../.gitbook/assets/943ab23a84415076f979e76de7af57e3 (1).jpg>)
 
 Figure 8 - Lanyard Mount Point
 
 * **Charging Station Compatibility (Non-Kiosk Models)**: Non-kiosk versions of the device can be placed in an optional charging station. This station can be used in conjunction with the lanyard mount point for quick access and easy drop-in charging between handheld uses.
 
 ![A drawing of a printer Description automatically
-generated](Images/29ada735f3f190d27f0b43db9936f89f.jpg)
+generated](<../../../../../../.gitbook/assets/29ada735f3f190d27f0b43db9936f89f (1).jpg>)
 
 Figure 9 - Charging Station Compatibility
 
@@ -276,7 +276,7 @@ Figure 9 - Charging Station Compatibility
 2. Mount DynaFlex II devices onto a smooth, flat, and non-porous surface by pressing the device firmly using the adhesive mounting strips (see **Figure 10**).
 
 ![A close-up of a scanner Description automatically
-generated](Images/ee812fa591ebcdb053249443a098c7af.jpeg)
+generated](<../../../../../../.gitbook/assets/ee812fa591ebcdb053249443a098c7af (1).jpeg>)
 
 Figure 10 - Mounting DynaFlex onto a Nonporous Surface
 
@@ -289,7 +289,7 @@ If your installation requires custom mounting brackets, contact your MagTek repr
 
 #### How to Mount DynaFlex II Kiosk Models
 
-| ![](Images/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                                                                                                                            |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (2).png>)                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | This document describes how to use DynaFlex II Kiosk models securely. Using the device in any way other than the approved methods described in this document invalidates the PCI PTS POI approval of the device. Not following the guidelines in this section could damage the device, render it inoperable, and/or violate the conditions of the warranty. |
 
@@ -306,20 +306,20 @@ When designing the mechanical portions of a solution that incorporates DynaFlex 
 Overall dimensions of the device are shown in **Figure 11** and **Figure 12**. On request, MagTek can provide a 3D model of the device’s envelope to assist with the mechanical portion of solution design. MagTek strongly recommends building and testing prototypes with actual devices before finalizing the solution design.
 
 ![A drawing of a computer Description automatically
-generated](Images/cadc51b3f0ee4a3d86719f41ec11b756.JPG)
+generated](<../../../../../../.gitbook/assets/cadc51b3f0ee4a3d86719f41ec11b756 (1).JPG>)
 
 Figure 11 – DynaFlex II Kiosk Models Overall Dimensions
 
 The screw hole placement on the bottom of DynaFlex II Kiosk models is detailed in **Figure 12**. The holes are designed to accommodate screw size **M4 x 0.7mm** and a maximum screw depth of 0.315 inches (8mm). The recommended torque range for installing the screws is 20 to 22 in-lbs. (2.3 to 2.5 N-m).
 
 ![A diagram of a device Description automatically
-generated](Images/57e20c21311b25263d69b0612c0ee4d0.jpeg)
+generated](<../../../../../../.gitbook/assets/57e20c21311b25263d69b0612c0ee4d0 (1).jpeg>)
 
 Figure 12 – DynaFlex II Kiosk Models Mounting Hole Locations
 
 When designing an enclosure or mounting bracket, make sure there is adequate clearance for cardholders to swipe, insert, and tap. If the solution design includes metal objects anywhere near the device, including metal enclosures, ensure that at all points the metal is no further forward than 15mm below the top face of the device. Proximity to metal can adversely affect the device’s performance.
 
-![](Images/a3bfa6ff455e43de3907e3c781d0e291.png)
+![](<../../../../../../.gitbook/assets/a3bfa6ff455e43de3907e3c781d0e291 (1).png>)
 
 **Figure 13 - Unobstructed View of Card Insertion Slot, Swipe Path and Contactless Landing Zone**
 
@@ -340,11 +340,11 @@ To mount the optional charging station to a countertop using the four adhesive m
 
 **Note**: The adhesive mounting strips used to mount the charging station to a surface may become less effective if dust and or debris accumulate on them. If this occurs, wipe them down with a damp cloth to restore their adhesive properties.
 
-![](Images/b4f6b18a817d76906620edb397826072.png)
+![](<../../../../../../.gitbook/assets/b4f6b18a817d76906620edb397826072 (1).png>)
 
 Figure 14 - Charging Station Dimensions
 
-![](Images/9bcd8046c20e8d964539758708f59f8e.JPG)
+![](<../../../../../../.gitbook/assets/9bcd8046c20e8d964539758708f59f8e (1).JPG>)
 
 Figure 15 - Charging Station Mounting Surfaces and Screw Holes
 
@@ -358,16 +358,16 @@ To mount the charging station to a countertop, table, or flat surface using the 
 3. To uninstall, remove the screws from the underside of the charging station.
 
 ![Diagram of a device with measurements Description automatically generated with
-medium confidence](Images/efd58e2bf92f8a8ee4077635f61840a2.JPG)
+medium confidence](<../../../../../../.gitbook/assets/efd58e2bf92f8a8ee4077635f61840a2 (1).JPG>)
 
 Figure 16 – Preparing a Flat Surface for Mounting the Charging Station
 
 ![A drawing of a box with a red line Description automatically
-generated](Images/b72c9731b1d3688800b702aae1bfb72f.PNG)
+generated](<../../../../../../.gitbook/assets/b72c9731b1d3688800b702aae1bfb72f (1).PNG>)
 
 Figure 17 - Screw Installation
 
-![](Images/761ed1d625d3692b8d2bda39c2ef139e.png)
+![](<../../../../../../.gitbook/assets/761ed1d625d3692b8d2bda39c2ef139e (1).png>)
 
 **Figure 18 – Connecting DynaFlex II to the Optional Charging Station**
 
@@ -390,9 +390,9 @@ Transaction types may include sales, refunds, voids, authorization, new accounts
 
 If the device cannot read payment data, the host software may direct it to prompt the cardholder to repeat the action or request the cardholder revert to a different form of payment (such as using the magnetic stripe reader as a fallback instead of the chip card insertion slot).
 
-![](Images/e1b45407e4f2c77369ee83b8e8acef6b.png) ![](Images/5a5ae61e42bb71202f670f38c140bdd0.png) ![](Images/943eb58b82cc6c3c09d66c1e0db13e89.png) ![Text
+![](<../../../../../../.gitbook/assets/e1b45407e4f2c77369ee83b8e8acef6b (1).png>) ![](<../../../../../../.gitbook/assets/5a5ae61e42bb71202f670f38c140bdd0 (1).png>) ![](<../../../../../../.gitbook/assets/943eb58b82cc6c3c09d66c1e0db13e89 (1).png>) ![Text
 Description automatically generated with low
-confidence](Images/3213d1ac55f34ecaaf7e19b519832ddf.png) ![](Images/b84c02a96fc22007fd30dbf2c99de1b4.png) ![](Images/efddd058051044b6b4e8053e14ba0392.png) ![](Images/3a6e878c615967b9e83cd56498af20b6.png) ![](Images/c0c13e59cff84fae79d8f67d0e20662b.png)
+confidence](<../../../../../../.gitbook/assets/3213d1ac55f34ecaaf7e19b519832ddf (1).png>) ![](<../../../../../../.gitbook/assets/b84c02a96fc22007fd30dbf2c99de1b4 (1).png>) ![](<../../../../../../.gitbook/assets/efddd058051044b6b4e8053e14ba0392 (1).png>) ![](<../../../../../../.gitbook/assets/3a6e878c615967b9e83cd56498af20b6 (1).png>) ![](<../../../../../../.gitbook/assets/c0c13e59cff84fae79d8f67d0e20662b (1).png>)
 
 Figure 19 - Typical Transaction Sequence
 
@@ -416,20 +416,20 @@ Table 4 – DynaFlex II LED Allocation
 
 Table 5 – DynaFlex II LED Colors
 
-| Color                                                   | Means                                                                                                               |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| ![](Images/5e855b2318b51c316cf1754dc8c9f1ae.png) Red    | Stop or stopped Example: LED1 is red. **Stop** using device: Battery is about to run out of charge.                 |
-| ![](Images/0c83bb2713d527c82f6b534a3be79160.png) Yellow | Wait or waiting LED2 will show status for Access Point connection: Green connected, yellow waiting for connection.  |
-| ![](Images/96667fed4612d491e627cf5e14b0490f.png) Green  | Go, going, or went. LED3 will show status for WebSocket connection: Green connected, yellow Waiting for connection. |
-| Other Colors                                            | Reserved                                                                                                            |
+| Color                                                                                    | Means                                                                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../../../../.gitbook/assets/5e855b2318b51c316cf1754dc8c9f1ae (1).png>) Red    | Stop or stopped Example: LED1 is red. **Stop** using device: Battery is about to run out of charge.                 |
+| ![](<../../../../../../.gitbook/assets/0c83bb2713d527c82f6b534a3be79160 (1).png>) Yellow | Wait or waiting LED2 will show status for Access Point connection: Green connected, yellow waiting for connection.  |
+| ![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (1).png>) Green  | Go, going, or went. LED3 will show status for WebSocket connection: Green connected, yellow Waiting for connection. |
+| Other Colors                                                                             | Reserved                                                                                                            |
 
 Table 6 – DynaFlex II LED Patterns
 
-| Color                                                                                                                                                                                                       | Means                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Solid ![](Images/5e855b2318b51c316cf1754dc8c9f1ae.png)![](Images/0c83bb2713d527c82f6b534a3be79160.png)![](Images/96667fed4612d491e627cf5e14b0490f.png)![](Images/771a43cebf86dc8c53632bc62abec13a.png)      | **Solid** LEDs require an operator or cardholder to take action to change the state the LED is reporting. Example: Host is connected. Cardholder or host would have to disconnect. Example: Host is disconnected. Host would have to initiate connection.                 |
-| Blinking ![](Images/9dd9d76090579c35b67a7dde2a242c7a.png)![](Images/ae3e401dd7fb296257ebe1e78e9b8831.png)![](Images/bad702d1f486c3f13b37a8902862f1c3.png)![](Images/f66c35a8ccf312a323dff14360cb1c22.png)   | **Blinking** LEDs indicate the device is in the process of doing / attempting something. Blink duty cycle and blink period are selected to show urgency or ongoing progress through a series of steps. Example: Device is attempting to connect to the WLAN access point. |
-| Short time ![](Images/5e855b2318b51c316cf1754dc8c9f1ae.png)![](Images/0c83bb2713d527c82f6b534a3be79160.png)![](Images/96667fed4612d491e627cf5e14b0490f.png)![](Images/771a43cebf86dc8c53632bc62abec13a.png) | LEDs sometimes illuminate for a **short time** to indicate a process has ended (success or failure) and the device is going to transition to another state soon. Example: Successful card read.                                                                           |
+| Color                                                                                                                                                                                                                                                                                                                                           | Means                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Solid ![](<../../../../../../.gitbook/assets/5e855b2318b51c316cf1754dc8c9f1ae (1).png>)![](<../../../../../../.gitbook/assets/0c83bb2713d527c82f6b534a3be79160 (1).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (1).png>)![](<../../../../../../.gitbook/assets/771a43cebf86dc8c53632bc62abec13a (1).png>)      | **Solid** LEDs require an operator or cardholder to take action to change the state the LED is reporting. Example: Host is connected. Cardholder or host would have to disconnect. Example: Host is disconnected. Host would have to initiate connection.                 |
+| Blinking ![](<../../../../../../.gitbook/assets/9dd9d76090579c35b67a7dde2a242c7a (1).png>)![](<../../../../../../.gitbook/assets/ae3e401dd7fb296257ebe1e78e9b8831 (1).png>)![](<../../../../../../.gitbook/assets/bad702d1f486c3f13b37a8902862f1c3 (1).png>)![](<../../../../../../.gitbook/assets/f66c35a8ccf312a323dff14360cb1c22 (1).png>)   | **Blinking** LEDs indicate the device is in the process of doing / attempting something. Blink duty cycle and blink period are selected to show urgency or ongoing progress through a series of steps. Example: Device is attempting to connect to the WLAN access point. |
+| Short time ![](<../../../../../../.gitbook/assets/5e855b2318b51c316cf1754dc8c9f1ae (1).png>)![](<../../../../../../.gitbook/assets/0c83bb2713d527c82f6b534a3be79160 (1).png>)![](<../../../../../../.gitbook/assets/96667fed4612d491e627cf5e14b0490f (1).png>)![](<../../../../../../.gitbook/assets/771a43cebf86dc8c53632bc62abec13a (1).png>) | LEDs sometimes illuminate for a **short time** to indicate a process has ended (success or failure) and the device is going to transition to another state soon. Example: Successful card read.                                                                           |
 
 ### About the Touchscreen Display
 
@@ -443,24 +443,24 @@ WLAN enabled devices also report current status in a set of icons at the top of 
 
 Table 7 – Status Icon Meaning
 
-| Status Icon                                                                                                                                | Meaning                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](Images/d3da1b0cfb52b8571ba040e20c1f69a8.png)                                                                                           | Device’s Active Connection is set to USB, and the device has successfully established a USB communication connection with the host.                                                                                                                    |
-| ![](Images/1f7a468502ee76572d5fbeaefc8a31a6.png)                                                                                           | WLAN is not configured                                                                                                                                                                                                                                 |
-| ![](Images/a4cf07b623fd22873be0c91024016621.png)                                                                                           | Blinking to show device is connecting to a wireless access point                                                                                                                                                                                       |
-| ![](Images/9e96d36e49479a44824686f0810c11b8.png)                                                                                           | WebSocket is active or connected                                                                                                                                                                                                                       |
-| ![](Images/6c8086a719810ac49b74b22e3249aca1.png)                                                                                           | WebSocket is inactive or disconnected                                                                                                                                                                                                                  |
-| ![](Images/4552d4e5b2ccf0b7cd9a307572695709.png)                                                                                           | Device’s Active Connection is set to 802.11 wireless, and the device is connected to a wireless access point. The number of bars indicates the strength of the signal the device is receiving from the wireless access point (commonly known as RSSI). |
-| ![](Images/88af17f14d4cf83ec9f4e990ea6980a6.png) and ![](Images/63b855de247c2fffe69cc6b5c5c149b4.png)                                      | TLS security on the 802.11 wireless connection is Disabled (red open padlock) TLS security on the 802.11 wireless connection is Enabled (black closed padlock)                                                                                         |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_excellent.bmp](Images/3e00eeac7f32abac658c23d95fbd607b.png)          | Battery is fully charged.                                                                                                                                                                                                                              |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_good.bmp](Images/9ecdae89a5762825c92b15ce36b2c480.png)               | Battery is OK, between 20% and 95% charged.                                                                                                                                                                                                            |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_low\_yellow.bmp](Images/4ae74b0708000ecdcc062831ef6d1bde.png)        | Battery is low, between 10% and 20% charged.                                                                                                                                                                                                           |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_critical\_low\_red.bmp](Images/05174bd5123a5b136dfb8e4e82597486.png) | Battery is critically low, between 3% and 10% charged.                                                                                                                                                                                                 |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_empty.bmp](Images/b06af78b67e3de52b5998243899ec4ad.png)              | Battery is empty, below 3% charged.                                                                                                                                                                                                                    |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_plugged.bmp](Images/55f0fac105270125f77ee82d5413f937.png)            | Battery is charging.                                                                                                                                                                                                                                   |
+| Status Icon                                                                                                                                                                 | Meaning                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](<../../../../../../.gitbook/assets/d3da1b0cfb52b8571ba040e20c1f69a8 (1).png>)                                                                                           | Device’s Active Connection is set to USB, and the device has successfully established a USB communication connection with the host.                                                                                                                    |
+| ![](<../../../../../../.gitbook/assets/1f7a468502ee76572d5fbeaefc8a31a6 (1).png>)                                                                                           | WLAN is not configured                                                                                                                                                                                                                                 |
+| ![](<../../../../../../.gitbook/assets/a4cf07b623fd22873be0c91024016621 (1).png>)                                                                                           | Blinking to show device is connecting to a wireless access point                                                                                                                                                                                       |
+| ![](<../../../../../../.gitbook/assets/9e96d36e49479a44824686f0810c11b8 (1).png>)                                                                                           | WebSocket is active or connected                                                                                                                                                                                                                       |
+| ![](<../../../../../../.gitbook/assets/6c8086a719810ac49b74b22e3249aca1 (1).png>)                                                                                           | WebSocket is inactive or disconnected                                                                                                                                                                                                                  |
+| ![](<../../../../../../.gitbook/assets/4552d4e5b2ccf0b7cd9a307572695709 (1).png>)                                                                                           | Device’s Active Connection is set to 802.11 wireless, and the device is connected to a wireless access point. The number of bars indicates the strength of the signal the device is receiving from the wireless access point (commonly known as RSSI). |
+| ![](<../../../../../../.gitbook/assets/88af17f14d4cf83ec9f4e990ea6980a6 (1).png>) and ![](<../../../../../../.gitbook/assets/63b855de247c2fffe69cc6b5c5c149b4 (1).png>)     | TLS security on the 802.11 wireless connection is Disabled (red open padlock) TLS security on the 802.11 wireless connection is Enabled (black closed padlock)                                                                                         |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_excellent.bmp](<../../../../../../.gitbook/assets/3e00eeac7f32abac658c23d95fbd607b (1).png>)          | Battery is fully charged.                                                                                                                                                                                                                              |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_good.bmp](<../../../../../../.gitbook/assets/9ecdae89a5762825c92b15ce36b2c480 (1).png>)               | Battery is OK, between 20% and 95% charged.                                                                                                                                                                                                            |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_low\_yellow.bmp](<../../../../../../.gitbook/assets/4ae74b0708000ecdcc062831ef6d1bde (1).png>)        | Battery is low, between 10% and 20% charged.                                                                                                                                                                                                           |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_critical\_low\_red.bmp](<../../../../../../.gitbook/assets/05174bd5123a5b136dfb8e4e82597486 (1).png>) | Battery is critically low, between 3% and 10% charged.                                                                                                                                                                                                 |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_empty.bmp](<../../../../../../.gitbook/assets/b06af78b67e3de52b5998243899ec4ad (1).png>)              | Battery is empty, below 3% charged.                                                                                                                                                                                                                    |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_plugged.bmp](<../../../../../../.gitbook/assets/55f0fac105270125f77ee82d5413f937 (1).png>)            | Battery is charging.                                                                                                                                                                                                                                   |
 
 ![A screenshot of a phone Description automatically
-generated](Images/f6918e30c9bc97f51f3908ae092a1750.png) ![](Images/fd37901e96f09957edf53680ff2b95c8.png)
+generated](<../../../../../../.gitbook/assets/f6918e30c9bc97f51f3908ae092a1750 (1).png>) ![](<../../../../../../.gitbook/assets/fd37901e96f09957edf53680ff2b95c8 (1).png>)
 
 Figure 20 - Welcome Page Examples
 
@@ -478,7 +478,7 @@ The device may show text other than “Welcome” when it is Active / idle under
 
 While powering on, the touchscreen briefly displays a page of information about the device, including the installed firmware part numbers and versions and other identifying information. To determine a device’s PCI certification status, compare the contents of this screen to the device’s listing on [www.pcisecuritystandards.org](http://www.pcisecuritystandards.org), **Approved PTS Devices**. Note that in PCI listings, lowercase “x” is a wildcard meaning ‘any single character.
 
-![](Images/599842dc6b568d9ddc62cc6d947d7379.png)
+![](<../../../../../../.gitbook/assets/599842dc6b568d9ddc62cc6d947d7379 (1).png>)
 
 Figure 21 - Device Information Screen
 
@@ -486,7 +486,7 @@ To view details pertinent to the device’s PCI certification status on WLAN ena
 
 While on the **Welcome** screen, press the **Pushbutton** and hold for 3 beeps to access the **Settings** menu, then select **Firmware** and **Main** to return to the **Welcome** screen, select **Back** and **Exit**
 
-![](Images/097da369a90e553db62429738633d231.png) ![](Images/714a5c44a9b24b03cc7e432a74b5e9ee.png)
+![](<../../../../../../.gitbook/assets/097da369a90e553db62429738633d231 (1).png>) ![](<../../../../../../.gitbook/assets/714a5c44a9b24b03cc7e432a74b5e9ee (1).png>)
 
 Figure 22 - Device Information Screen for WLAN device
 
@@ -495,12 +495,12 @@ Figure 22 - Device Information Screen for WLAN device
 In addition to the icons at the top of the display, WLAN enabled devices have a **WLAN Status** screen that reports more details about the device’s 802.11 wireless (see **Figure 23**) connection. To access it, while on the **Welcome** screen, press the **Pushbutton** and hold for three beeps to get to the **Settings** menu, then select **Connection**, and **WLAN Settings**, then select **WLAN Status**. To return to the **Welcome** screen, select **Back** and **Exit**
 
 ![Graphical user interface, application Description automatically
-generated](Images/2fce061461ee799f19f5bffd94f9617c.png) ![Graphical user
+generated](<../../../../../../.gitbook/assets/2fce061461ee799f19f5bffd94f9617c (1).png>) ![Graphical user
 interface, application Description automatically
-generated](Images/3d747135313fa97ed8f15f74ee375392.png)
+generated](<../../../../../../.gitbook/assets/3d747135313fa97ed8f15f74ee375392 (1).png>)
 
 ![Graphical user interface Description automatically generated with low
-confidence](Images/143b25d043a9bd1e0ef6cf71d30f2b8c.png)
+confidence](<../../../../../../.gitbook/assets/143b25d043a9bd1e0ef6cf71d30f2b8c (1).png>)
 
 Figure 23 - WLAN Status Screen
 
@@ -516,7 +516,7 @@ To configure WLAN enabled devices via SoftAP mode (see **Figure 24)** complete t
 To return to the **Welcome** screen, select **Back** and **Exit**.
 
 ![Graphical user interface, application Description automatically generated with
-medium confidence](Images/24fa639efa82c1b305b8e0beeaf1b72b.png)
+medium confidence](<../../../../../../.gitbook/assets/24fa639efa82c1b305b8e0beeaf1b72b (1).png>)
 
 Figure 24 – SoftAP Mode screen
 
@@ -562,7 +562,7 @@ The device’s rechargeable battery is designed to last hundreds of charging cyc
 When powered on, DynaFlex II starts in the idle / waiting state and shows a **Welcome** page on the touchscreen. See **4.6.4 How to Power On / Wake Up from Standby Mode / Power Off.** This page indicates battery level and charge status on the top right corner of the screen. See **Figure 25 Welcome Screen.**
 
 ![Text, letter Description automatically
-generated](Images/a4f8c336eb8528dff88adc4d948ed584.png)
+generated](<../../../../../../.gitbook/assets/a4f8c336eb8528dff88adc4d948ed584 (1).png>)
 
 Figure 25 Welcome Screen
 
@@ -570,18 +570,18 @@ The table of symbols below describes the various power level and charge status i
 
 Table 8 - Battery Power Level and Charge Status Icons
 
-| Battery Power Level and Charge Status Icons                                                                                                |                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_excellent.bmp](Images/3e00eeac7f32abac658c23d95fbd607b.png)          | Battery is fully charged.                              |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_good.bmp](Images/9ecdae89a5762825c92b15ce36b2c480.png)               | Battery is OK, between 20% and 95% charged.            |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_low\_yellow.bmp](Images/4ae74b0708000ecdcc062831ef6d1bde.png)        | Battery is low, between 10% and 20% charged.           |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_critical\_low\_red.bmp](Images/05174bd5123a5b136dfb8e4e82597486.png) | Battery is critically low, between 3% and 10% charged. |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_empty.bmp](Images/b06af78b67e3de52b5998243899ec4ad.png)              | Battery is empty, below 3% charged.                    |
-| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_plugged.bmp](Images/55f0fac105270125f77ee82d5413f937.png)            | Battery is charging.                                   |
+| Battery Power Level and Charge Status Icons                                                                                                                                 |                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_excellent.bmp](<../../../../../../.gitbook/assets/3e00eeac7f32abac658c23d95fbd607b (1).png>)          | Battery is fully charged.                              |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_good.bmp](<../../../../../../.gitbook/assets/9ecdae89a5762825c92b15ce36b2c480 (1).png>)               | Battery is OK, between 20% and 95% charged.            |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_low\_yellow.bmp](<../../../../../../.gitbook/assets/4ae74b0708000ecdcc062831ef6d1bde (1).png>)        | Battery is low, between 10% and 20% charged.           |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_critical\_low\_red.bmp](<../../../../../../.gitbook/assets/05174bd5123a5b136dfb8e4e82597486 (1).png>) | Battery is critically low, between 3% and 10% charged. |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_empty.bmp](<../../../../../../.gitbook/assets/b06af78b67e3de52b5998243899ec4ad (1).png>)              | Battery is empty, below 3% charged.                    |
+| ![C:\GitProjects\dpm3\_mainapp\_no\_kernels\GUI\_COLOR\_DPM3\battery\_plugged.bmp](<../../../../../../.gitbook/assets/55f0fac105270125f77ee82d5413f937 (1).png>)            | Battery is charging.                                   |
 
 #### How to Charge the Battery
 
-| ![](Images/03555afcb3177a7ebf5f264c12d86851.png)                                                                                           |
+| ![](<../../../../../../.gitbook/assets/03555afcb3177a7ebf5f264c12d86851 (2).png>)                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Per UL requirements, the device is designed to not recharge its internal battery when the external temperature is below 0°C or above 40°C. |
 
@@ -619,7 +619,7 @@ When the device is connected to a host via USB (see section **3.2.2 How to Conne
 
 It is possible to configure a Windows host to not suspend the device by editing the registry. Open **HKEY\_LOCAL\_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID\_0801\&PID\_2020**, then open the folder with the device’s serial number inside that folder and open the **Device Parameters** folder inside that. Set the value of **EnhancedPowerManagementEnabled** equal to **0**. After changing the setting, physically disconnect and re-connect the device to the host.
 
-![](Images/b5a7837f9eee59f0c6b9d4c3588d4b38.png)
+![](<../../../../../../.gitbook/assets/b5a7837f9eee59f0c6b9d4c3588d4b38 (1).png>)
 
 #### About Maintenance Reset
 
@@ -678,11 +678,11 @@ To swipe magnetic stripe cards, follow these steps:
 
 Immediately after the user swipes a magnetic stripe card, the device disables the option to use the contactless interface. If the cardholder needs to revert to a contactless card or device for payment while a transaction is in process, the operator should cancel the transaction and start again.
 
-![](Images/5a5ae61e42bb71202f670f38c140bdd0.png) ![](Images/5de28fafe0ae6d50039cc9cc9d3d0a61.png)
+![](<../../../../../../.gitbook/assets/5a5ae61e42bb71202f670f38c140bdd0 (1).png>) ![](<../../../../../../.gitbook/assets/5de28fafe0ae6d50039cc9cc9d3d0a61 (1).png>)
 
 Figure 26 – Example Card Swipe Screens
 
-![](Images/3e86bbfcfd9250568337c532d4ac2ade.png)
+![](<../../../../../../.gitbook/assets/3e86bbfcfd9250568337c532d4ac2ade (1).png>)
 
 Figure 27 – Swiping a Magnetic Stripe Card
 
@@ -717,11 +717,11 @@ To insert contact chip cards, follow these steps:
 
 Immediately after the user inserts a chip card, the device disables the option to use the contactless interface. If the cardholder needs to revert to a contactless card or device for payment while a transaction is in process, the operator should cancel the transaction and start again.
 
-![](Images/5a5ae61e42bb71202f670f38c140bdd0.png) ![](Images/fb8d3eb52db598e2f4d5f62a761f0f02.png) ![](Images/b84c02a96fc22007fd30dbf2c99de1b4.png)
+![](<../../../../../../.gitbook/assets/5a5ae61e42bb71202f670f38c140bdd0 (1).png>) ![](<../../../../../../.gitbook/assets/fb8d3eb52db598e2f4d5f62a761f0f02 (1).png>) ![](<../../../../../../.gitbook/assets/b84c02a96fc22007fd30dbf2c99de1b4 (1).png>)
 
 Figure 28 – Example Card Insertion Screens
 
-![](Images/91f6f9408433c25b48c91ec16586ac37.png)
+![](<../../../../../../.gitbook/assets/91f6f9408433c25b48c91ec16586ac37 (1).png>)
 
 Figure 29 – Inserting a Chip Card
 
@@ -751,15 +751,15 @@ To tap a contactless card or smartphone, follow these steps:
    4. Devices with a touchscreen display **INSERT, SWIPE, OR TRY ANOTHER CARD**, then **THANK YOU**. The device then returns to the idle page (see section **4.4.1 Welcome Page / Active Idle Page**).
    5. The device notifies the host that the transaction failed. If this occurs, the host software may choose to retry the transaction (for example, with different payment types enabled) or revert to prompting the operator to enter card data manually (see section **4.8.7 How to Enter Card Information Manually)**.
 
-![](Images/5a5ae61e42bb71202f670f38c140bdd0.png) ![](Images/153e31a328bf55d94646a989d1bd1e7b.png)
+![](<../../../../../../.gitbook/assets/5a5ae61e42bb71202f670f38c140bdd0 (1).png>) ![](<../../../../../../.gitbook/assets/153e31a328bf55d94646a989d1bd1e7b (1).png>)
 
 Figure 30 – Example Contactless Transaction Screens
 
-![](Images/094e6e552335e0a8f64db9c8c5796922.png) ![](Images/d575015d0fc1eabad649f6c92220123a.png)
+![](<../../../../../../.gitbook/assets/094e6e552335e0a8f64db9c8c5796922 (1).png>) ![](<../../../../../../.gitbook/assets/d575015d0fc1eabad649f6c92220123a (1).png>)
 
 Figure 31 – Tapping a Contactless Card / Smartphone
 
-![](Images/7ac420b4615e876636fe3b9ff87dc498.png) ![](Images/ee90868d2735539ada2487190c34d096.png) ![](Images/d6e835dcc95fcbc5ab527bbca81317dd.png) ![](Images/785b4eb732880d763908624e901ed5c5.png)
+![](<../../../../../../.gitbook/assets/7ac420b4615e876636fe3b9ff87dc498 (1).png>) ![](<../../../../../../.gitbook/assets/ee90868d2735539ada2487190c34d096 (1).png>) ![](<../../../../../../.gitbook/assets/d6e835dcc95fcbc5ab527bbca81317dd (1).png>) ![](<../../../../../../.gitbook/assets/785b4eb732880d763908624e901ed5c5 (1).png>)
 
 **Figure 32 – Tap Read Is Complete**
 
@@ -798,7 +798,7 @@ To scan a barcode, follow these steps:
    2. The device beeps once.
    3. The device turns off the barcode reader indicator LED.
 
-![](Images/6672cca37583b097712d59d3ab80ae72.png)
+![](<../../../../../../.gitbook/assets/6672cca37583b097712d59d3ab80ae72 (1).png>)
 
 Figure 33 – Scanning a Barcode
 
@@ -823,15 +823,15 @@ To enter card information manually, follow these steps. For every prompt below, 
    2. If it is correct but the cardholder or operator wishes to stop the transaction, press the **Cancel** button to completely end the transaction.
    3. If it is not correct, press the **Cancel** button to completely end the transaction, and start the transaction again from the first step.
 
-![](Images/17cd92a760e895176fe75556576db18f.png)
+![](<../../../../../../.gitbook/assets/17cd92a760e895176fe75556576db18f (1).png>)
 
 Figure 34 – Enter Card Number
 
-![](Images/225ef6fcb25efe4098f698f89b598e2a.png)
+![](<../../../../../../.gitbook/assets/225ef6fcb25efe4098f698f89b598e2a (1).png>)
 
 Figure 35 – Enter Expiration Date
 
-![](Images/3a9b6342505c243b37b16a876da4ed6d.png)
+![](<../../../../../../.gitbook/assets/3a9b6342505c243b37b16a876da4ed6d (1).png>)
 
 Figure 36 – Enter CVV/CVC/Card ID
 
@@ -840,9 +840,9 @@ Figure 36 – Enter CVV/CVC/Card ID
 When the device is processing a transaction using the EMV Transaction Flow (as opposed to the Quick Chip Transaction Flow), devices with a touchscreen display the amount of the transaction when they prompt the cardholder to swipe, dip, or tap a card or payment device, as shown in **Figure 37.** The cardholder implicitly confirms / accepts the transaction amount by presenting payment.
 
 ![Text, shape Description automatically generated with medium
-confidence](Images/971a93e22e22ba8906f7669d38e8e736.png) ![Text, letter
+confidence](<../../../../../../.gitbook/assets/971a93e22e22ba8906f7669d38e8e736 (1).png>) ![Text, letter
 Description automatically
-generated](Images/89d5fa19f4ef476456cc3d1534cc2ec2.png)
+generated](<../../../../../../.gitbook/assets/89d5fa19f4ef476456cc3d1534cc2ec2 (1).png>)
 
 Figure 37 - Example Transaction Amount Screens
 
@@ -851,14 +851,14 @@ Figure 37 - Example Transaction Amount Screens
 Devices with a touchscreen display provide support for requesting a PIN from the cardholder. The device prompts the cardholder to **ENTER PIN** (see **Figure 38**) as required by the financial institution. The device expects the PIN to be between 4 and 12 digits long. After entering the PIN, the cardholder must press the **ENTER** button.
 
 ![Calendar Description automatically
-generated](Images/39ca4f6afee8f3450c121c246823b2ea.png)
+generated](<../../../../../../.gitbook/assets/39ca4f6afee8f3450c121c246823b2ea (1).png>)
 
 Figure 38 – Enter PIN
 
 If the double PIN entry option is enabled, the device prompts the cardholder to enter the PIN a second time (see **Figure 39**). _The process for re-entry is identical to the process for the first entry_.
 
 ![Calendar Description automatically
-generated](Images/2f50bbe350d5e814275728cc85a23f1c.png)
+generated](<../../../../../../.gitbook/assets/2f50bbe350d5e814275728cc85a23f1c (1).png>)
 
 Figure 39 – Enter PIN Again
 
@@ -867,21 +867,21 @@ Figure 39 – Enter PIN Again
 Devices with a touchscreen display provide support for requesting a Tip Entry from the cardholder. The device prompts the cardholder to **Enter Tip** (see **Figure 40** – Enter Tip).
 
 ![A screenshot of a table Description automatically
-generated](Images/8cb408316a3ae822e1b682fc60aa28b5.png)
+generated](<../../../../../../.gitbook/assets/8cb408316a3ae822e1b682fc60aa28b5 (1).png>)
 
 Figure 40 – Enter Tip
 
 If the cardholder selects a **Custom** button, the device prompts a keypad for the cardholder to **Enter Tip Amount** (see Figure **41** – Enter Tip Amount). After entering the Tip Amount, the cardholder must press the **Enter** button.
 
 ![A screenshot of a number grid Description automatically
-generated](Images/3e01c71efdb258e973121cf2944c59e8.png)
+generated](<../../../../../../.gitbook/assets/3e01c71efdb258e973121cf2944c59e8 (1).png>)
 
 Figure 41 – Enter Tip Amount
 
 After finalizing the Tip, and pressing the **Submit** button, the device prompts the cardholder to present a payment (see **Figure 42**). The on-screen prompt is different depending on which payment method(s) the host directed the device to enable for the transaction. If the Quick Chip flow is in effect, the prompt does not include the transaction amount. If the Full EMV flow is in effect, the prompt includes the transaction amount.
 
 ![A screen shot of a card Description automatically
-generated](Images/c58ce8b7bf69285e10584ab900d5b49e.png)
+generated](<../../../../../../.gitbook/assets/c58ce8b7bf69285e10584ab900d5b49e (1).png>)
 
 Figure 42 – Example Present Payment Screen
 
@@ -890,14 +890,14 @@ Figure 42 – Example Present Payment Screen
 Devices with a touchscreen display and active connection to a Wireless Local Area Network (WLAN) Host provide support for entering a Sale Amount from the cardholder. The device prompts the cardholder with the **Start Sale** button (see **Figure 43**)
 
 ![A screenshot of a computer Description automatically
-generated](Images/eb647ef6aa84aa708f28c723d877b1f0.png)
+generated](<../../../../../../.gitbook/assets/eb647ef6aa84aa708f28c723d877b1f0 (1).png>)
 
 Figure 43 - Start Sale Screen
 
 When the cardholder presses the **Start Sale** button, the device prompts the cardholder to **Enter Sale Amount** (see **Figure 44**)
 
 ![A screenshot of a computer screen Description automatically
-generated](Images/c68faead48a9c4e6b051fa59d9d60150.png)
+generated](<../../../../../../.gitbook/assets/c68faead48a9c4e6b051fa59d9d60150 (1).png>)
 
 Figure 44 - Enter Sale Amount
 
@@ -905,14 +905,14 @@ After the cardholder enters the Sale Amount and presses **Enter**, the device pr
 
 #### How to Use Signature Capture
 
-| ![A black and white sign Description automatically generated with low confidence](Images/bdb6a105147891251b84fbdb350ba870.png)                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Do not use a stylus or other hard object on the touchscreen. The touchscreen is designed for fingers only and can be scratched or damaged if misused. |
+| ![A black and white sign Description automatically generated with low confidence](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (2).png>) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Do not use a stylus or other hard object on the touchscreen. The touchscreen is designed for fingers only and can be scratched or damaged if misused.           |
 
 When a device with a touchscreen display prompts cardholders with a **PLEASE SIGN** page, (**Figure 45 - Signature Capture Requested)** cardholders should use the tip of their finger to _press and glide against the screen to sign_, then press the **OK** button. To clear the current signature on the display and start over, press the **Clear** button.
 
 ![Shape Description automatically
-generated](Images/3a6e878c615967b9e83cd56498af20b6.png)
+generated](<../../../../../../.gitbook/assets/3a6e878c615967b9e83cd56498af20b6 (1).png>)
 
 Figure 45 - Signature Capture Requested
 
@@ -922,7 +922,7 @@ Devices that do not have a touchscreen display cannot prompt for or collect a si
 
 ### Mechanical Maintenance
 
-| ![](Images/bdb6a105147891251b84fbdb350ba870.png)                                                                                                                                                                                                                                                            |
+| ![](<../../../../../../.gitbook/assets/bdb6a105147891251b84fbdb350ba870 (2).png>)                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | To avoid damaging the read head and contact block, only clean the MSR swipe path and insertion slot with approved cleaning cards. DO NOT use liquid cleaning products or insert any other objects into the device. DO NOT apply any liquid directly onto the device, to avoid seepage into the electronics. |
 
@@ -1125,7 +1125,7 @@ This product is recognized per **UL 609501, 2nd Edition, 20111219** (Information
 
 RoHS STATEMENT
 
-When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](Images/4d77d9668e7bdc54b2ee2546cc21077c.png)).
+When ordered as RoHS compliant, this product meets the Electrical and Electronic Equipment (EEE) Reduction of Hazardous Substances (RoHS) Directive (EU) 2015/863 amending Annex II to Directive 2011/65/EU. The marking is clearly recognizable, either as written words like “Pb-free,” “lead-free,” or as another clear symbol (![PbFreeSym](<../../../../../../.gitbook/assets/4d77d9668e7bdc54b2ee2546cc21077c (2).png>)).
 
 PCI Statement
 

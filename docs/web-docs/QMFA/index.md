@@ -69,9 +69,9 @@ After the app is downloaded, a token will need to be added.
 1. Tap on the **cog icon** at the top right corner of the window to access the **Manage Tokens** window.
 2. Tap on the **Add** button at the bottom right corner of the window. This will display the **Add Token** screen.
 
-![](D998200712-100Assets/Image01.jpeg) ![A key on a white background AI-generated content may be incorrect.](D998200712-100Assets/Image02.jfif)
+![](../../../.gitbook/assets/Image01.jpeg) ![A key on a white background AI-generated content may be incorrect.](../../../.gitbook/assets/Image02.jfif)
 
-![](D998200712-100Assets/Image03.png)
+![](../../../.gitbook/assets/Image03.png)
 
 #### Adding, Viewing, Editing, and Deleting Tokens
 
@@ -85,31 +85,31 @@ The Add Token Screen Fields appear as follows:
 * **Token Use**: Label that identifies how the token is used (e.g., “DoorAccess”).
 *   **Add Token Button**: Press this button when all relevant fields are entered.
 
-    ![](D998200712-100Assets/Image04.jpeg)
+    ![](../../../.gitbook/assets/Image04.jpeg)
 
 **Viewing a Token**
 
 Tokens can be viewed by tapping the **Cog** icon at the top righthand side of the screen. The app supports multiple tokens, allowing users to manage multiple credentials from one place. Tapping on the Token from the **Manage Tokens** screen will open the **Edit Token** screen. Pressing the **crescent moon** icon will activate or deactivate Dark Mode.
 
-![](D998200712-100Assets/Image05.png)
+![](../../../.gitbook/assets/Image05.png)
 
 **Editing a Token**
 
 Changes to a token can be made by modifying fields in the **Edit Token** screen. Press **Save Changes** when all desired changes have been made.
 
-![](D998200712-100Assets/Image06.png)
+![](../../../.gitbook/assets/Image06.png)
 
 **Deleting a Token**
 
 To delete a token, press the **Cog** icon at the top righthand side of the screen. From the Manage Tokens Screen, select the desired token to delete. Press **DELETE TOKEN**. This action permanently removes the token from the wallet.
 
-![](D998200712-100Assets/Image1.png) ![A white background with black text AI-generated content may be incorrect.](D998200712-100Assets/Image2.png) ![](D998200712-100Assets/Image3.png)
+![](../../../.gitbook/assets/Image1.png) ![A white background with black text AI-generated content may be incorrect.](../../../.gitbook/assets/Image2.png) ![](../../../.gitbook/assets/Image3.png)
 
 **Using a Token**
 
 From the home screen, swipe across the QR code (left or right) to select the desired token you wish to use. The token’s QR code will appear, ready to be scanned by a MagTek Dyna Device with barcode capability. For tokens with TOTP, the code will display in red beneath the QR image and refresh every 30 seconds.
 
-![A qr code on a screen AI-generated content may be incorrect.](D998200712-100Assets/Image4.png)
+![A qr code on a screen AI-generated content may be incorrect.](../../../.gitbook/assets/Image4.png)
 
 Additional details:
 

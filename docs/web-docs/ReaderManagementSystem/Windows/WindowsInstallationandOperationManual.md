@@ -24,7 +24,7 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');\
 
 | \[Reader Management System] \[Windows] \[Installation and Operation Manual] |
 | --------------------------------------------------------------------------- |
-| ![](Images/1b6bb6474e14ceebd130c45ebf78f20e.png)                            |
+| ![](<../../../../.gitbook/assets/1b6bb6474e14ceebd130c45ebf78f20e (1).png>) |
 | June 2025 Document Number: D998200581-412 REGISTERED TO ISO 9001:2015       |
 
 Copyright © 2006 - 2025 MagTek, Inc.
@@ -193,7 +193,7 @@ MagTek will provide the necessary Profile configurations and Web API Keys if req
 Begin by downloading the [MagTek Reader Management System](https://rms.magensa.net/ReaderSupport/FirmwareUpdateClient/publish.htm).
 
 ![A picture containing symbol, circle, carmine, white Description automatically
-generated](Images/48dbbb1293a87bf2842b2888cc6fb644.png)
+generated](<../../../../.gitbook/assets/48dbbb1293a87bf2842b2888cc6fb644 (1).png>)
 
 Open the **MagTek Reader Management System** Windows app.
 
@@ -201,7 +201,7 @@ Open the **MagTek Reader Management System** Windows app.
 
 The RMS application has three tabs available at the top of the window as illustrated below. These include **File**, **Utilities** and **Help**.
 
-![](Images/b12df6b857f095779b61ec3e9bf7d776.png)
+![](../../../../.gitbook/assets/b12df6b857f095779b61ec3e9bf7d776.png)
 
 #### File
 
@@ -209,83 +209,83 @@ The **File** tab has one button, **Exit**.
 
 * The **Exit** button closes the application and operates identically to the **Exit** button in the graphical user interface (GUI).
 
-![](Images/acb22b60bee9f51fab87ad8208a8ccde.png)
+![](../../../../.gitbook/assets/acb22b60bee9f51fab87ad8208a8ccde.png)
 
 #### Utilities
 
-The Utilities tab has 9 active buttons for use with DynaFlex/DynaProx devices, **Offline Mode** is reserved for use with MagneSafe Devices.![](Images/1439b275afafc481aa0f251b519157c4.png)
+The Utilities tab has 9 active buttons for use with DynaFlex/DynaProx devices, **Offline Mode** is reserved for use with MagneSafe Devices.![](../../../../.gitbook/assets/1439b275afafc481aa0f251b519157c4.png)
 
 * **Web API Key**: The customer will select this button if they have their own custom Web API Key. This information will be provided by Magensa during onboarding.
 * **Clear Screen**: This button removes all content from the Output field, performing the same function as the **Clear** button in the graphical user interface (GUI).
 
 ![A screenshot of a computer Description automatically
-generated](Images/a0e5fea4d91f6cd48f2911aac5cfb724.png)
+generated](../../../../.gitbook/assets/a0e5fea4d91f6cd48f2911aac5cfb724.png)
 
 *   **Detect Device**: This button scans for devices connected to the PC used for interfacing. It operates identically to the **Scan** button in the graphical user interface (GUI), prioritizing the first detected USB connection.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/5204316af1b3de6b97e239aa471c0154.png)
+    generated](../../../../.gitbook/assets/5204316af1b3de6b97e239aa471c0154.png)
 *   **GetEMVConfigs**: This feature is only available on MagneSafe devices and is not supported on DynaFlex or DynaProx devices. It retrieves device information and logs the data.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/ed7ccafaef2af1c2fdc9d8e65859d3d5.jpg)
+    generated](../../../../.gitbook/assets/ed7ccafaef2af1c2fdc9d8e65859d3d5.jpg)
 *   **GetConfigList**: This button performs the same function as the **Check Config** button in the graphical user interface (GUI). It retrieves the device’s current configuration and populates all available configurations in the Configurations dropdown tab.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/3eefacee7521c67c9e0ba2a3c1b10db4.png)
+    generated](../../../../.gitbook/assets/3eefacee7521c67c9e0ba2a3c1b10db4.png)
 *   **Check Tag Updates**: this button will check if the current EMV Tags and CAPKs are up to date and report the results in the output log.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/052d5205ac45dcc7275cbbe16813e25a.png) ![](Images/56a3a932de97291b7b523a9dd270c607.png)
+    generated](../../../../.gitbook/assets/052d5205ac45dcc7275cbbe16813e25a.png) ![](../../../../.gitbook/assets/56a3a932de97291b7b523a9dd270c607.png)
 *   **Always Update**: When this button is selected, the device will automatically update if its configuration version is lower than the version indicated in the Version field in the GUI. Selecting this button will suppress the “Yes/No” popup dialog (see image below) when an update is available.
 
     ![A screenshot of a computer error Description automatically
-    generated](Images/719c482af1e1e65b80e9e631c7b17e01.png) ![](Images/36282abdf2d595870666824eebbd99be.png)
+    generated](../../../../.gitbook/assets/719c482af1e1e65b80e9e631c7b17e01.png) ![](../../../../.gitbook/assets/36282abdf2d595870666824eebbd99be.png)
 
     The RMS application keeps track of configuration versions in the GUI by indicating a value in Version field as illustrated below. The user may enter 0 in this field to force an update.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/c5485df3ab9df36d497ab492c7dbf100.png)
+    generated](../../../../.gitbook/assets/c5485df3ab9df36d497ab492c7dbf100.png)
 * \*\*\
   \*\*
 *   **Offline Mode (MagneSafe Devices Only)**: This button should be selected when the user **does not** want the RMS application to retrieve firmware or configuration data from external Online sources. The user must make prior arrangements with Magensa to obtain the relevant files and instructions needed for Offline Mode to work properly. This button does not work with DynaFlex/DynaProx devices.
 
-    ![](Images/1ae6b05ca81885defab009a0b763d1ae.png)
+    ![](../../../../.gitbook/assets/1ae6b05ca81885defab009a0b763d1ae.png)
 *   **Auto Start**: When this button is selected, the RMS application will automatically start after launching the application.
 
-    ![](Images/f6ee3c8207590ee6bbdb375f368cec0c.png)
+    ![](../../../../.gitbook/assets/f6ee3c8207590ee6bbdb375f368cec0c.png)
 *   **Auto Close**: When this button is selected, the application will automatically close when all updates are complete.
 
-    ![](Images/b2c0831797a6ef6ea56184b1164e2fc4.png)
+    ![](../../../../.gitbook/assets/b2c0831797a6ef6ea56184b1164e2fc4.png)
 *   **Log Output**: When this button is selected, it will enable RMS to store output details in a log file. To see the Log, the user can go to **Help** tab and select the **Show Log** button. For more details about the Help tab, see **3.2.3 Help**.
 
     ![A screenshot of a computer program Description automatically
-    generated](Images/6be5521e03ac40514fb6d408182ef607.png)
+    generated](../../../../.gitbook/assets/6be5521e03ac40514fb6d408182ef607.png)
 
 #### Help
 
 The Help Tab contains the **About**, **FAQs** and **Show Log File** options.
 
 ![A screenshot of a computer Description automatically
-generated](Images/32e283e200f87d2ea834e3497153a373.png)
+generated](../../../../.gitbook/assets/32e283e200f87d2ea834e3497153a373.png)
 
 *   **About**: this button displays a window with the name of the application, the version, and application PN number.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/f9d4682b4dd7614038123fcb50b06c84.png)
+    generated](../../../../.gitbook/assets/f9d4682b4dd7614038123fcb50b06c84.png)
 
-    ![](Images/7d7845eb7b2d6cae0b2211dd845a2c12.png)
+    ![](../../../../.gitbook/assets/7d7845eb7b2d6cae0b2211dd845a2c12.png)
 *   **FAQs**: this button takes the user to the MagTek.com support page.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/b904f5f9bc69d89b4e4df6a787b6431d.png)
+    generated](../../../../.gitbook/assets/b904f5f9bc69d89b4e4df6a787b6431d.png)
 *   **Show Log File**: this button displays txt file log of events only when a device is connected, and the Log Output button is checked in the Utilities Tab. This information is tied directly to the device serial number.
 
     ![A screenshot of a computer Description automatically
-    generated](Images/7c462bda12b1495c04298f5083b18ee7.png)
+    generated](../../../../.gitbook/assets/7c462bda12b1495c04298f5083b18ee7.png)
 
     ![A screenshot of a computer Description automatically
-    generated](Images/0345abb48fd940339576d5c78b6cfbcf.png)
+    generated](../../../../.gitbook/assets/0345abb48fd940339576d5c78b6cfbcf.png)
 
 ## User Instructions (DynaFlex/DynaProx)
 
@@ -293,20 +293,20 @@ generated](Images/32e283e200f87d2ea834e3497153a373.png)
 
 Select the device Type and Interface before connecting the device to your Windows PC. This application has no auto scan feature, the user must click **Scan** when ready to scan for devices.
 
-![](Images/e161de82eadce0aa1e61d29eaea9c222.png)
+![](../../../../.gitbook/assets/e161de82eadce0aa1e61d29eaea9c222.png)
 
 #### Open Device
 
 After scanning for a device is complete, click **Open**.
 
-![](Images/85ddc813fea41b0d4d3aabd7e8e41cd9.png)
+![](../../../../.gitbook/assets/85ddc813fea41b0d4d3aabd7e8e41cd9.png)
 
 #### Device Output
 
 When successfully opened, the device will display data such as the serial number and firmware ID number at the bottom of the window in the **Output** field. This information will be necessary when contacting MagTek Support.
 
 ![A screenshot of a computer Description automatically
-generated](Images/15b3631edf932846e14382004f559d07.png)
+generated](../../../../.gitbook/assets/15b3631edf932846e14382004f559d07.png)
 
 ### Profile Name
 
@@ -315,7 +315,7 @@ Find the "Profile Name" field. The default Profile Name is set to "MagTekProd," 
 **Note**: the examples provided in this document will use the “MagTekTest” profile.
 
 ![A screenshot of a login page Description automatically
-generated](Images/7d8837459d69870050bc79df72063595.png)
+generated](../../../../.gitbook/assets/7d8837459d69870050bc79df72063595.png)
 
 If you want to customize your RMS profile, you will need to contact your sales representative to create a unique profile.
 
@@ -324,11 +324,11 @@ If you want to customize your RMS profile, you will need to contact your sales r
 The RMS application allows users to check a device’s current configuration and change it. The profile will dictate which configurations auto populate in the dropdown Tab. To check the configuration of a device, click **Check Config.**
 
 ![A screenshot of a computer Description automatically
-generated](Images/db8f2ea966541a0b92258043e9f3d75f.png)
+generated](../../../../.gitbook/assets/db8f2ea966541a0b92258043e9f3d75f.png)
 
 A list of available configurations will appear in the Details field.
 
-![](Images/b91890ea945f99d4c140a9a19b84431e.png)
+![](../../../../.gitbook/assets/b91890ea945f99d4c140a9a19b84431e.png)
 
 * When working with a customer created Profile, the user should have knowledge of the configuration list. Their organization is involved in the Profile creation with Magensa. The end operator should be told ahead of time which configuration to select.
 * When working with a public MagTek Profile, the user may have to consult MagTek Support to determine the function of specific configurations.
@@ -340,19 +340,19 @@ When a MagTek reader is connected, the user can press the **Update** button to u
 The user can check which updates the device will receive. Once the updates have been checked, press **Update**.
 
 ![A screenshot of a computer Description automatically
-generated](Images/f2c78b9c6d38ffb4b003c724e0f04bab.png)
+generated](../../../../.gitbook/assets/f2c78b9c6d38ffb4b003c724e0f04bab.png)
 
 **Note**: Do not press **UI Buttons** or disconnect the device while firmware updates are in progress.
 
 The user will be prompted to click **Yes** or **NO** for each update that will be performed.
 
 ![A screenshot of a computer Description automatically
-generated](Images/eead57e8a41365681014a6d17e183934.png) ![A screenshot of a
+generated](../../../../.gitbook/assets/eead57e8a41365681014a6d17e183934.png) ![A screenshot of a
 computer update Description automatically
-generated](Images/542bd9123085c15536ae544076bec2a3.png)
+generated](../../../../.gitbook/assets/542bd9123085c15536ae544076bec2a3.png)
 
 ![A screenshot of a computer error Description automatically
-generated](Images/2f768a8cb3a3d6ce5ef4cdb1e24385f4.png)
+generated](../../../../.gitbook/assets/2f768a8cb3a3d6ce5ef4cdb1e24385f4.png)
 
 #### Updates Successful
 
@@ -361,7 +361,7 @@ When the update process is complete, the Details field will display: **…done**
 **Note**: The Details and Output field will display both successful updates and any failures when verifying update status.
 
 ![A screenshot of a computer Description automatically
-generated](Images/3b96c7ad843b3cb6cf73971d73c0b652.png)
+generated](../../../../.gitbook/assets/3b96c7ad843b3cb6cf73971d73c0b652.png)
 
 ### Commands
 
@@ -374,12 +374,12 @@ Navigate to the Command field to enter a command.
 When a valid command is entered, the Output field will return a response command that can be cross-referenced with a known response command to verify functionality. Command Request and Response examples can be found in the individual device’s Programmer’s Manuals.
 
 ![A screenshot of a computer Description automatically
-generated](Images/02d2b20752753538c6c03848c96c92ed.png)
+generated](../../../../.gitbook/assets/02d2b20752753538c6c03848c96c92ed.png)
 
 Be sure to enter a Valid HEX String with no spaces between the bits, the application will not recognize Hex strings with spacing between bits.
 
 ![A screenshot of a computer Description automatically
-generated](Images/b4a3d010153bfaa7dee8d4a1a63ea295.png)
+generated](../../../../.gitbook/assets/b4a3d010153bfaa7dee8d4a1a63ea295.png)
 
 ### Exit
 
@@ -391,19 +391,19 @@ Press the **Exit** button to close the application.
 
 Select the device Type and Interface before connecting the device to your Windows PC. This application has no auto scan feature, the user must click **Scan** when ready to scan for devices.
 
-![](Images/39bb4c34e3951b869022fc73cc8f0c7d.png)
+![](../../../../.gitbook/assets/39bb4c34e3951b869022fc73cc8f0c7d.png)
 
 #### Open Device
 
 After scanning for a device is complete, click **Open**.
 
-![](Images/549011c96f1ce809fae709569d289b3b.png)
+![](../../../../.gitbook/assets/549011c96f1ce809fae709569d289b3b.png)
 
 #### Device Output
 
 When successfully opened, the device will display data such as the serial number and firmware ID number at the bottom of the window in the **Output** field. This information will be necessary when contacting MagTek Support.
 
-![](Images/4a52d63f99881b851326c2567db051d2.png)
+![](../../../../.gitbook/assets/4a52d63f99881b851326c2567db051d2.png)
 
 ### Profile Name
 
@@ -412,7 +412,7 @@ Find the "Profile Name" field. The default Profile Name is set to "MagTekProd," 
 **Note**: the examples provided in this document will use the “MagTekTest” profile.
 
 ![A screenshot of a login page Description automatically
-generated](Images/7d8837459d69870050bc79df72063595.png)
+generated](../../../../.gitbook/assets/7d8837459d69870050bc79df72063595.png)
 
 If you want to customize your RMS profile, you will need to contact your sales representative to create a unique profile.
 
@@ -422,7 +422,7 @@ The RMS application allows users to check a device’s current configuration and
 
 A list of available configurations will appear in the Details field.
 
-![](Images/bb51e44700745c06de001490ac32017f.png)
+![](../../../../.gitbook/assets/bb51e44700745c06de001490ac32017f.png)
 
 * When working with a customer created Profile, the user should have knowledge of the configuration list. Their organization is involved in the Profile creation with Magensa. The end operator should be told ahead of time which configuration to select.
 * When working with a public MagTek Profile, the user may have to consult MagTek Support to determine the function of specific configurations.
@@ -433,7 +433,7 @@ When a MagTek reader is connected, the user can press the **Update** button to u
 
 The user can check which updates the device will receive. Once the updates have been checked, press **Update**.
 
-![](Images/3f08128ae0548b33bf05784858850e5a.png)
+![](../../../../.gitbook/assets/3f08128ae0548b33bf05784858850e5a.png)
 
 **Note**: Do not press **UI Buttons** or disconnect the device while firmware updates are in progress.
 
@@ -444,7 +444,7 @@ When the update process is complete, the Details field will display: \[Update] *
 **Note**: The Details and Output field will display both successful updates and any failures when verifying update status.
 
 ![A screenshot of a computer Description automatically
-generated](Images/cfefc70afaf07a6ac1fdb3682a3daf97.png)
+generated](../../../../.gitbook/assets/cfefc70afaf07a6ac1fdb3682a3daf97.png)
 
 ### Commands
 
@@ -456,11 +456,11 @@ Navigate to the Command field to enter a command.
 
 When a valid command is entered, the Output field will return a response command that can be cross-referenced with a known response command to verify functionality. Command Request and Response examples can be found in the individual device’s Programmer’s Manuals.
 
-![](Images/01ba62546eddde845928d6d9b7dab19c.png)
+![](../../../../.gitbook/assets/01ba62546eddde845928d6d9b7dab19c.png)
 
 Be sure to enter a Valid HEX String with no spaces between the bits, the application will not recognize Hex strings with spacing between bits.
 
-![](Images/95d287b458d685cc4c1e9c6a47fb12c3.png)
+![](../../../../.gitbook/assets/95d287b458d685cc4c1e9c6a47fb12c3.png)
 
 ### Exit
 
