@@ -34,7 +34,7 @@ This charter establishes the framework for the Documentation Modernization Proje
 
 {% stepper %}
 {% step %}
-### Deploy a Unified Knowledge Platform
+### Deploy a Unified Information System
 
 Success Metric: Successful pilot launch and full migration from the legacy document ecosystem.
 {% endstep %}
