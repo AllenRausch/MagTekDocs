@@ -47,7 +47,7 @@ This transition will be guided by the following principles:
 * **Measurable outcomes:** All recommendations backed by data and clear success criteria
 * **Sustainability:** Systems designed for long-term maintainability and scalability including AI inclusion, not just quick fixes
 
-_Note: A dedicated Jira project and Kanban board for documentation tasks have been established at https://magensa.atlassian.net/jira/software/projects/DC/list. Projects in this document are listed by both their functional names and Jira Ticket (DC=Documentation) numbers._
+_Note: A dedicated Jira project and Kanban board for documentation tasks have been established at_ [_https://magensa.atlassian.net/jira/software/projects/DC/list_](https://magensa.atlassian.net/jira/software/projects/DC/list)_. Projects in this document are listed by both their functional names and Jira Ticket (DC=Documentation) numbers._
 
 _Note: This plan is designed to be a collaborative and iterative process. Timelines for feedback and decisions are estimates and may be adjusted to accommodate stakeholder availability and ensure full organizational alignment._
 
@@ -115,7 +115,7 @@ Complete stakeholder discovery, establish project foundation, and build consensu
 
 ### Tool Evaluation Criteria & Pilot Setup (DC-6)
 
-* Define selection criteria for front-end tools. (DC-8)
+* Define [selection criteria](unified-information-system-platform-evaluation.md) for front-end tools. (DC-8)
 * Create five pilot repositories on GitHub and establish basic published sites using GitBook, GitHub Pages. MKDocs, and Docusaurus for initial evaluation. (DC-7, DC-10, DC-9, DC-12, DC-11)
 
 ### Major Deliverables
